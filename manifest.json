@@ -1,7 +1,8 @@
 {
   "name": "Geography Bee Trainer",
   "short_name": "GeoBee",
-  "start_url": "/",
+  "start_url": "/geobee/",
+  "scope": "/geobee/",
   "display": "standalone",
   "background_color": "#F8FAFC",
   "theme_color": "#3B82F6",

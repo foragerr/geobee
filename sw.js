@@ -1,13 +1,14 @@
 const CACHE_NAME = 'geobee-v1';
+const BASE = '/geobee/';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/app.js',
-  '/questions.json',
-  '/topics.json',
-  '/manifest.json',
-  '/icon-192.png',
-  '/icon-512.png'
+  BASE,
+  BASE + 'index.html',
+  BASE + 'app.js',
+  BASE + 'questions.json',
+  BASE + 'topics.json',
+  BASE + 'manifest.json',
+  BASE + 'icon-192.png',
+  BASE + 'icon-512.png'
 ];
 
 self.addEventListener('install', (e) => {
