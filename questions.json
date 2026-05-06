@@ -901,8 +901,8 @@
         "United Kingdom",
         "Iceland"
       ],
-      "answer": 1,
-      "explanation": "Switzerland has stayed neutral and outside the EU."
+      "answer": 2,
+      "explanation": "The United Kingdom left the EU in 2020 (Brexit) and is the largest Western European non-member by area."
     },
     {
       "id": "gold-europe-002",
@@ -5328,8 +5328,8 @@
         "Five",
         "Six"
       ],
-      "answer": 2,
-      "explanation": "The five Great Lakes are Superior, Michigan, Huron, Erie, and Ontario."
+      "answer": 1,
+      "explanation": "Four Great Lakes form the border: Superior, Huron, Erie, and Ontario. Lake Michigan is entirely within the US."
     },
     {
       "id": "terms-gold-025",
