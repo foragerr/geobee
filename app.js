@@ -295,6 +295,7 @@ function startQuiz() {
   state.consecutiveCorrect = 0;
   state.peakDifficulty = state.currentDifficulty;
   state.quizAttempts = [];
+  state.browsing = false;
   state.usedIds = new Set();
   pickNextFromPool();
   navigate(SCREENS.QUIZ);
@@ -321,13 +322,21 @@ function pickNextFromPool() {
   state.usedIds.add(pick.id);
 }
 
-function pickAnswer(i) {
+function selectAnswer(i) {
   if (state.revealed) return;
   state.picked = i;
+  render();
+  const submitBtn = document.querySelector('[data-action="submit-answer"]');
+  if (submitBtn) submitBtn.focus();
+}
+
+function submitAnswer() {
+  if (state.revealed || state.picked === null) return;
   state.revealed = true;
+  state.browsing = false;
 
   const q = state.quizQuestions[state.quizIdx];
-  const correct = i === q.answer;
+  const correct = state.picked === q.answer;
   if (correct) {
     state.score++;
     state.consecutiveCorrect++;
@@ -346,7 +355,7 @@ function pickAnswer(i) {
     qid: q.id,
     ts: Date.now(),
     correct,
-    picked: i,
+    picked: state.picked,
     difficulty: q.difficulty,
     sessionId: state.sessionId
   };
@@ -357,20 +366,43 @@ function pickAnswer(i) {
   saveAttempts(state.currentUser, attempts);
 
   render();
+  const nextBtn = document.querySelector('[data-action="next-question"]');
+  if (nextBtn) nextBtn.focus();
 }
 
 function nextQuestion() {
-  state.quizIdx++;
-  state.picked = null;
-  state.revealed = false;
-
   const targetCount = Math.min(state.questionCount, state.quizPool.length);
-  if (state.quizIdx >= targetCount) {
+  const isFrontier = state.quizIdx === state.quizAttempts.length - 1;
+  if (isFrontier && state.quizIdx + 1 >= targetCount) {
     finishQuiz();
-  } else {
-    pickNextFromPool();
-    render();
+    return;
   }
+  state.quizIdx++;
+  if (state.quizIdx < state.quizAttempts.length) {
+    restoreQuestionState();
+  } else {
+    state.browsing = false;
+    state.picked = null;
+    state.revealed = false;
+    if (state.quizIdx >= state.quizQuestions.length) {
+      pickNextFromPool();
+    }
+  }
+  render();
+}
+
+function prevQuestion() {
+  if (state.quizIdx <= 0) return;
+  state.browsing = true;
+  state.quizIdx--;
+  restoreQuestionState();
+  render();
+}
+
+function restoreQuestionState() {
+  const attempt = state.quizAttempts[state.quizIdx];
+  state.picked = attempt.picked;
+  state.revealed = true;
 }
 
 function finishQuiz() {
@@ -532,6 +564,8 @@ function renderQuiz() {
   const pct = Math.round((state.quizIdx / targetCount) * 100);
   const adaptiveLabel = ['', 'Easy', 'Medium', 'Hard'][state.currentDifficulty] || '';
   const qDiffLabel = ['', 'Easy', 'Medium', 'Hard'][q.difficulty] || '';
+  const isReview = state.quizIdx < state.quizAttempts.length - 1 || (state.quizIdx < state.quizAttempts.length && state.browsing);
+  const isFrontier = !isReview;
 
   const choices = q.choices.map((c, i) => {
     let cls = 'choice-btn';
@@ -547,8 +581,10 @@ function renderQuiz() {
       } else {
         cls += ' dimmed';
       }
+    } else if (i === state.picked) {
+      cls += ' selected';
     }
-    return `<button class="${cls}" data-action="pick" data-idx="${i}" aria-label="Choice ${i + 1}: ${escHtml(c)}${state.revealed && i === q.answer ? ', correct answer' : ''}">
+    return `<button class="${cls}" ${isReview ? 'disabled' : ''} data-action="pick" data-idx="${i}" aria-label="Choice ${i + 1}: ${escHtml(c)}${state.revealed && i === q.answer ? ', correct answer' : ''}">
       <span class="text-xs text-tertiary" style="margin-right:6px;">${i + 1}.</span>${escHtml(c)}${mark}
     </button>`;
   }).join('');
@@ -562,12 +598,26 @@ function renderQuiz() {
           ${isCorrect ? 'Correct!' : `Not quite — the answer is ${escHtml(q.choices[q.answer])}.`}
         </p>
         <p class="text-sm text-secondary mb-2">${escHtml(q.explanation)}</p>
-        <button class="btn-primary" data-action="next-question">
-          ${state.quizIdx + 1 >= targetCount ? 'See Results' : 'Next Question'}
-        </button>
       </div>
     `;
   }
+
+  let actionBtn = '';
+  if (isReview) {
+    // Viewing a past question — no submit, just nav
+  } else if (!state.revealed) {
+    actionBtn = `<button class="btn-primary mt-2" data-action="submit-answer" ${state.picked === null ? 'disabled style="opacity:0.4;cursor:default;"' : ''}>Submit Answer</button>`;
+  } else {
+    actionBtn = `<button class="btn-primary mt-2" data-action="next-question">${state.quizIdx + 1 >= targetCount ? 'See Results' : 'Continue'}</button>`;
+  }
+
+  const canGoBack = state.quizIdx > 0;
+  const canGoForward = isReview;
+  const navRow = `<div style="display:flex;justify-content:space-between;align-items:center;" class="mt-2">
+    <button class="header-link" data-action="prev-question" ${canGoBack ? '' : 'disabled style="opacity:0.3;cursor:default;"'}>&larr; Prev</button>
+    <span class="text-xs text-tertiary">${state.quizIdx + 1} / ${targetCount}</span>
+    <button class="header-link" data-action="forward-question" ${canGoForward ? '' : 'disabled style="opacity:0.3;cursor:default;"'}>Next &rarr;</button>
+  </div>`;
 
   return `
     <div class="header-row">
@@ -590,8 +640,10 @@ function renderQuiz() {
         ${choices}
       </div>
       ${explanation}
+      ${actionBtn}
     </div>
-    <p class="text-xs text-tertiary text-center mt-2">Keys: 1–4 to answer, Enter to advance</p>
+    ${navRow}
+    <p class="text-xs text-tertiary text-center mt-2">Keys: 1–4 to select, Enter to submit/continue, &larr;/&rarr; to navigate</p>
   `;
 }
 
@@ -838,8 +890,14 @@ function bindEvents() {
         startQuiz();
       };
     } else if (action === 'pick') {
-      el.onclick = () => pickAnswer(parseInt(el.dataset.idx));
+      el.onclick = () => selectAnswer(parseInt(el.dataset.idx));
+    } else if (action === 'submit-answer') {
+      el.onclick = () => submitAnswer();
     } else if (action === 'next-question') {
+      el.onclick = () => nextQuestion();
+    } else if (action === 'prev-question') {
+      el.onclick = () => prevQuestion();
+    } else if (action === 'forward-question') {
       el.onclick = () => nextQuestion();
     } else if (action === 'exit-quiz') {
       el.onclick = () => {
@@ -894,9 +952,19 @@ function bindEvents() {
 
 document.addEventListener('keydown', (e) => {
   if (state.screen !== SCREENS.QUIZ) return;
-  if (!state.revealed && ['1', '2', '3', '4'].includes(e.key)) {
-    pickAnswer(parseInt(e.key) - 1);
-  } else if (state.revealed && (e.key === 'Enter' || e.key === ' ')) {
+  const isReview = state.browsing;
+  if (e.key === 'ArrowLeft') {
+    e.preventDefault();
+    prevQuestion();
+  } else if (e.key === 'ArrowRight' && isReview) {
+    e.preventDefault();
+    nextQuestion();
+  } else if (!isReview && !state.revealed && ['1', '2', '3', '4'].includes(e.key)) {
+    selectAnswer(parseInt(e.key) - 1);
+  } else if (!isReview && !state.revealed && (e.key === 'Enter' || e.key === ' ') && state.picked !== null) {
+    e.preventDefault();
+    submitAnswer();
+  } else if (!isReview && state.revealed && (e.key === 'Enter' || e.key === ' ')) {
     e.preventDefault();
     nextQuestion();
   }

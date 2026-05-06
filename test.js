@@ -13,6 +13,7 @@ global.localStorage = {
 };
 global.document = {
   getElementById: () => ({ innerHTML: '', querySelector: () => null }),
+  querySelector: () => ({ focus: () => {} }),
   querySelectorAll: () => [],
   addEventListener: () => {}
 };
@@ -98,11 +99,11 @@ test('bumps difficulty after 3 consecutive correct', () => {
   `, context);
 
   // Answer 3 correct
-  vm.runInContext(`pickAnswer(state.quizQuestions[0].answer)`, context);
+  vm.runInContext(`selectAnswer(state.quizQuestions[0].answer); submitAnswer()`, context);
   vm.runInContext(`nextQuestion()`, context);
-  vm.runInContext(`pickAnswer(state.quizQuestions[1].answer)`, context);
+  vm.runInContext(`selectAnswer(state.quizQuestions[1].answer); submitAnswer()`, context);
   vm.runInContext(`nextQuestion()`, context);
-  vm.runInContext(`pickAnswer(state.quizQuestions[2].answer)`, context);
+  vm.runInContext(`selectAnswer(state.quizQuestions[2].answer); submitAnswer()`, context);
 
   const diff = vm.runInContext(`state.currentDifficulty`, context);
   assert(diff === 2, `expected difficulty 2, got ${diff}`);
@@ -129,7 +130,7 @@ test('wrong answer resets consecutive counter but not difficulty', () => {
     state.currentDifficulty = 2;
     state.consecutiveCorrect = 2;
   `, context);
-  vm.runInContext(`pickAnswer(1)`, context); // wrong (answer is 0)
+  vm.runInContext(`selectAnswer(1); submitAnswer()`, context); // wrong (answer is 0)
   const diff = vm.runInContext(`state.currentDifficulty`, context);
   const consec = vm.runInContext(`state.consecutiveCorrect`, context);
   assert(diff === 2, `difficulty should stay at 2, got ${diff}`);
