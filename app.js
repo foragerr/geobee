@@ -639,8 +639,8 @@ function renderQuiz() {
       <div style="display:flex;flex-direction:column;gap:8px;">
         ${choices}
       </div>
-      ${explanation}
       ${actionBtn}
+      ${explanation}
     </div>
     ${navRow}
     <p class="text-xs text-tertiary text-center mt-2">Keys: 1–4 to select, Enter to submit/continue, &larr;/&rarr; to navigate</p>

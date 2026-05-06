@@ -1,4 +1,4 @@
-const CACHE_NAME = 'geobee-v2';
+const CACHE_NAME = 'geobee-v3';
 const BASE = '/geobee/';
 const ASSETS = [
   BASE,
