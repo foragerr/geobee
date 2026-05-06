@@ -1,0 +1,20 @@
+{
+  "regions": [
+    { "id": "africa", "label": "Africa" },
+    { "id": "asia", "label": "Asia" },
+    { "id": "oceania", "label": "Australia & Oceania" },
+    { "id": "europe", "label": "Europe" },
+    { "id": "us-canada", "label": "US & Canada" },
+    { "id": "latin-america", "label": "Latin America" }
+  ],
+  "categories": [
+    { "id": "rivers", "label": "Rivers & Lakes" },
+    { "id": "mountains", "label": "Mountains & Deserts" },
+    { "id": "capitals", "label": "Capitals" },
+    { "id": "cities", "label": "Cities & Landmarks" },
+    { "id": "countries", "label": "Countries & Borders" },
+    { "id": "physical", "label": "Physical Geography" },
+    { "id": "islands", "label": "Islands" },
+    { "id": "culture", "label": "People & Culture" }
+  ]
+}

@@ -1,0 +1,6205 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "red-africa-001",
+      "tags": [
+        "africa",
+        "red-set",
+        "rivers"
+      ],
+      "difficulty": 1,
+      "q": "Cairo and Alexandria, Egypt's two largest cities, both sit on what river — the longest in the world?",
+      "choices": [
+        "Congo",
+        "Nile",
+        "Niger",
+        "Zambezi"
+      ],
+      "answer": 1,
+      "explanation": "The Nile flows about 4,130 miles from East Africa to the Mediterranean."
+    },
+    {
+      "id": "red-africa-002",
+      "tags": [
+        "africa",
+        "red-set",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "Which landlocked East African country has Addis Ababa as its capital?",
+      "choices": [
+        "Kenya",
+        "Sudan",
+        "Ethiopia",
+        "Somalia"
+      ],
+      "answer": 2,
+      "explanation": "Ethiopia is the most populous landlocked country in the world."
+    },
+    {
+      "id": "white-africa-001",
+      "tags": [
+        "africa",
+        "white-set",
+        "mountains"
+      ],
+      "difficulty": 1,
+      "q": "Mount Kilimanjaro, the tallest mountain in Africa, is located in which country?",
+      "choices": [
+        "Kenya",
+        "Uganda",
+        "Tanzania",
+        "Rwanda"
+      ],
+      "answer": 2,
+      "explanation": "Kilimanjaro rises about 19,341 feet and is a dormant volcano."
+    },
+    {
+      "id": "white-africa-002",
+      "tags": [
+        "africa",
+        "white-set",
+        "capitals",
+        "islands"
+      ],
+      "difficulty": 1,
+      "q": "Antananarivo is the capital of which large African island nation?",
+      "choices": [
+        "Mauritius",
+        "Seychelles",
+        "Comoros",
+        "Madagascar"
+      ],
+      "answer": 3,
+      "explanation": "Madagascar is the world's fourth-largest island."
+    },
+    {
+      "id": "gold-africa-001",
+      "tags": [
+        "africa",
+        "gold-set",
+        "physical",
+        "culture"
+      ],
+      "difficulty": 2,
+      "q": "The Serengeti, famous for its wildebeest migration and lion population, is mostly in which country?",
+      "choices": [
+        "Kenya",
+        "Tanzania",
+        "Botswana",
+        "South Africa"
+      ],
+      "answer": 1,
+      "explanation": "About 1.5 million wildebeest take part in the annual Serengeti migration."
+    },
+    {
+      "id": "blue-africa-001",
+      "tags": [
+        "africa",
+        "blue-set",
+        "rivers"
+      ],
+      "difficulty": 2,
+      "q": "Lake Malawi (also called Lake Nyasa) is shared by Malawi, Tanzania, and which third country?",
+      "choices": [
+        "Zambia",
+        "Zimbabwe",
+        "Mozambique",
+        "Kenya"
+      ],
+      "answer": 2,
+      "explanation": "Lake Malawi has more species of fish than any other lake on Earth."
+    },
+    {
+      "id": "blue-africa-002",
+      "tags": [
+        "africa",
+        "blue-set",
+        "physical",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "The Sinai Peninsula, which links Africa to West Asia, belongs to which country?",
+      "choices": [
+        "Israel",
+        "Jordan",
+        "Saudi Arabia",
+        "Egypt"
+      ],
+      "answer": 3,
+      "explanation": "The Sinai Peninsula is the only part of Egypt located in Asia."
+    },
+    {
+      "id": "bonus-africa-001",
+      "tags": [
+        "africa",
+        "bonus-set",
+        "culture"
+      ],
+      "difficulty": 2,
+      "q": "What is the official language of Madagascar, alongside French?",
+      "choices": [
+        "Swahili",
+        "Malagasy",
+        "Portuguese",
+        "Arabic"
+      ],
+      "answer": 1,
+      "explanation": "Malagasy is most closely related to languages of Borneo."
+    },
+    {
+      "id": "red-asia-001",
+      "tags": [
+        "asia",
+        "red-set",
+        "culture"
+      ],
+      "difficulty": 1,
+      "q": "Which of these is the most spoken first language in the world?",
+      "choices": [
+        "English",
+        "Spanish",
+        "Mandarin",
+        "Hindi"
+      ],
+      "answer": 2,
+      "explanation": "Mandarin Chinese has over 900 million native speakers."
+    },
+    {
+      "id": "red-asia-002",
+      "tags": [
+        "asia",
+        "red-set",
+        "islands"
+      ],
+      "difficulty": 1,
+      "q": "Tokyo and Hiroshima are both located on Japan's largest island. What is its name?",
+      "choices": [
+        "Hokkaido",
+        "Honshu",
+        "Kyushu",
+        "Shikoku"
+      ],
+      "answer": 1,
+      "explanation": "Honshu holds about 80% of Japan's population."
+    },
+    {
+      "id": "red-asia-003",
+      "tags": [
+        "asia",
+        "red-set",
+        "culture",
+        "cities"
+      ],
+      "difficulty": 1,
+      "q": "According to Islamic tradition, the prophet Muhammad was born in which city?",
+      "choices": [
+        "Medina",
+        "Jerusalem",
+        "Mecca",
+        "Baghdad"
+      ],
+      "answer": 2,
+      "explanation": "Mecca is in Saudi Arabia and is the holiest city in Islam."
+    },
+    {
+      "id": "red-asia-004",
+      "tags": [
+        "asia",
+        "red-set",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "Amman is the capital of which Middle Eastern country that shares the Dead Sea with Israel?",
+      "choices": [
+        "Lebanon",
+        "Syria",
+        "Iraq",
+        "Jordan"
+      ],
+      "answer": 3,
+      "explanation": "The Dead Sea is the lowest point on land — about 1,400 feet below sea level."
+    },
+    {
+      "id": "red-asia-005",
+      "tags": [
+        "asia",
+        "red-set",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "In 2023, which country passed China to become the world's most populous?",
+      "choices": [
+        "Indonesia",
+        "United States",
+        "India",
+        "Pakistan"
+      ],
+      "answer": 2,
+      "explanation": "India has more than 1.4 billion people."
+    },
+    {
+      "id": "red-asia-006",
+      "tags": [
+        "asia",
+        "red-set",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Hong Kong was returned to Chinese control in 1997 after being ruled by which country?",
+      "choices": [
+        "Portugal",
+        "France",
+        "United Kingdom",
+        "Japan"
+      ],
+      "answer": 2,
+      "explanation": "Macau was returned by Portugal two years later in 1999."
+    },
+    {
+      "id": "white-asia-001",
+      "tags": [
+        "asia",
+        "white-set",
+        "mountains"
+      ],
+      "difficulty": 1,
+      "q": "Mount Everest, Earth's highest peak, is located in which mountain range?",
+      "choices": [
+        "Andes",
+        "Alps",
+        "Rockies",
+        "Himalayas"
+      ],
+      "answer": 3,
+      "explanation": "Everest stands about 29,032 feet tall on the Nepal-China border."
+    },
+    {
+      "id": "white-asia-002",
+      "tags": [
+        "asia",
+        "white-set",
+        "cities"
+      ],
+      "difficulty": 1,
+      "q": "The Grand Palace is a famous landmark in which Southeast Asian capital?",
+      "choices": [
+        "Hanoi",
+        "Bangkok",
+        "Manila",
+        "Phnom Penh"
+      ],
+      "answer": 1,
+      "explanation": "Bangkok's full ceremonial name is the longest city name in the world."
+    },
+    {
+      "id": "white-asia-003",
+      "tags": [
+        "asia",
+        "white-set",
+        "culture",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Which country has the world's largest Muslim population?",
+      "choices": [
+        "Saudi Arabia",
+        "Pakistan",
+        "Indonesia",
+        "Egypt"
+      ],
+      "answer": 2,
+      "explanation": "Indonesia has about 240 million Muslims spread across thousands of islands."
+    },
+    {
+      "id": "white-asia-004",
+      "tags": [
+        "asia",
+        "white-set",
+        "cities",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "The Forbidden City, a former imperial palace complex, is located in which capital?",
+      "choices": [
+        "Beijing",
+        "Seoul",
+        "Tokyo",
+        "Hanoi"
+      ],
+      "answer": 0,
+      "explanation": "The Forbidden City has 980 buildings and was home to 24 emperors."
+    },
+    {
+      "id": "white-asia-005",
+      "tags": [
+        "asia",
+        "white-set",
+        "physical",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Siberia, known for its very cold climate, is a vast region of which country?",
+      "choices": [
+        "Mongolia",
+        "Kazakhstan",
+        "Russia",
+        "China"
+      ],
+      "answer": 2,
+      "explanation": "Siberia covers about 77% of Russia's land area."
+    },
+    {
+      "id": "gold-asia-001",
+      "tags": [
+        "asia",
+        "gold-set",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "Dubai is the largest city of which Middle Eastern country?",
+      "choices": [
+        "Qatar",
+        "Oman",
+        "United Arab Emirates",
+        "Bahrain"
+      ],
+      "answer": 2,
+      "explanation": "The Burj Khalifa in Dubai is the world's tallest building at 2,717 feet."
+    },
+    {
+      "id": "gold-asia-002",
+      "tags": [
+        "asia",
+        "gold-set",
+        "rivers"
+      ],
+      "difficulty": 2,
+      "q": "The Tigris and Euphrates rivers join together in the southern part of which country?",
+      "choices": [
+        "Iran",
+        "Iraq",
+        "Syria",
+        "Turkey"
+      ],
+      "answer": 1,
+      "explanation": "The land between these rivers is called Mesopotamia."
+    },
+    {
+      "id": "gold-asia-003",
+      "tags": [
+        "asia",
+        "gold-set",
+        "mountains"
+      ],
+      "difficulty": 2,
+      "q": "The Gobi Desert stretches across northern China and which other country?",
+      "choices": [
+        "Russia",
+        "Kazakhstan",
+        "Mongolia",
+        "North Korea"
+      ],
+      "answer": 2,
+      "explanation": "The Gobi is a cold desert where winter temperatures drop to -40 F."
+    },
+    {
+      "id": "gold-asia-004",
+      "tags": [
+        "asia",
+        "gold-set",
+        "capitals",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "Ankara is the capital of which country, but Istanbul is its largest city?",
+      "choices": [
+        "Greece",
+        "Turkey",
+        "Iran",
+        "Egypt"
+      ],
+      "answer": 1,
+      "explanation": "Istanbul is the only major city in the world that sits on two continents."
+    },
+    {
+      "id": "gold-asia-005",
+      "tags": [
+        "asia",
+        "gold-set",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "Bombay is the former name of which large Indian port city?",
+      "choices": [
+        "Kolkata",
+        "Chennai",
+        "Mumbai",
+        "Bangalore"
+      ],
+      "answer": 2,
+      "explanation": "Mumbai is home to Bollywood, the world's largest film industry by output."
+    },
+    {
+      "id": "blue-asia-001",
+      "tags": [
+        "asia",
+        "blue-set",
+        "rivers",
+        "cities"
+      ],
+      "difficulty": 3,
+      "q": "The Jordan River flows through Jericho, one of the world's oldest continuously inhabited cities. Which territory is Jericho in?",
+      "choices": [
+        "Israel",
+        "Lebanon",
+        "Palestinian Territories",
+        "Syria"
+      ],
+      "answer": 2,
+      "explanation": "People have lived in Jericho for over 11,000 years."
+    },
+    {
+      "id": "blue-asia-002",
+      "tags": [
+        "asia",
+        "blue-set",
+        "capitals"
+      ],
+      "difficulty": 2,
+      "q": "Seoul is the capital and largest city of which country?",
+      "choices": [
+        "North Korea",
+        "Japan",
+        "Taiwan",
+        "South Korea"
+      ],
+      "answer": 3,
+      "explanation": "About half of South Korea's population lives in the Seoul metropolitan area."
+    },
+    {
+      "id": "blue-asia-003",
+      "tags": [
+        "asia",
+        "blue-set",
+        "cities"
+      ],
+      "difficulty": 3,
+      "q": "Samarkand, once capital of the Timurid Empire, is in which Central Asian country today?",
+      "choices": [
+        "Turkmenistan",
+        "Uzbekistan",
+        "Kyrgyzstan",
+        "Tajikistan"
+      ],
+      "answer": 1,
+      "explanation": "Samarkand was a major stop on the ancient Silk Road."
+    },
+    {
+      "id": "blue-asia-004",
+      "tags": [
+        "asia",
+        "blue-set",
+        "rivers"
+      ],
+      "difficulty": 2,
+      "q": "Lake Baikal, the deepest lake in the world, is located in which region?",
+      "choices": [
+        "Mongolia",
+        "Eastern Siberia",
+        "Northern China",
+        "Kazakhstan"
+      ],
+      "answer": 1,
+      "explanation": "Baikal holds about 20% of the world's unfrozen freshwater."
+    },
+    {
+      "id": "bonus-asia-001",
+      "tags": [
+        "asia",
+        "bonus-set",
+        "cities",
+        "culture"
+      ],
+      "difficulty": 2,
+      "q": "The Great Wall of China was mainly built to defend against invaders from which direction?",
+      "choices": [
+        "South",
+        "East",
+        "West",
+        "North"
+      ],
+      "answer": 3,
+      "explanation": "The wall was built to keep out nomadic groups from the northern steppes."
+    },
+    {
+      "id": "red-oceania-001",
+      "tags": [
+        "oceania",
+        "red-set",
+        "cities"
+      ],
+      "difficulty": 1,
+      "q": "Brisbane is the largest city of which Australian state?",
+      "choices": [
+        "Victoria",
+        "Queensland",
+        "New South Wales",
+        "Western Australia"
+      ],
+      "answer": 1,
+      "explanation": "Queensland is known for the Great Barrier Reef along its coast."
+    },
+    {
+      "id": "red-oceania-002",
+      "tags": [
+        "oceania",
+        "red-set",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "Which continent is classified entirely as a desert and has no permanent human residents?",
+      "choices": [
+        "Australia",
+        "Africa",
+        "Antarctica",
+        "South America"
+      ],
+      "answer": 2,
+      "explanation": "Antarctica is the world's driest, windiest, and coldest continent."
+    },
+    {
+      "id": "red-oceania-003",
+      "tags": [
+        "oceania",
+        "red-set",
+        "culture",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "The duckbill platypus, kangaroo, and koala are wild animals found only on which continent?",
+      "choices": [
+        "Australia",
+        "Africa",
+        "South America",
+        "Asia"
+      ],
+      "answer": 0,
+      "explanation": "The platypus is one of only a few mammals that lays eggs."
+    },
+    {
+      "id": "white-oceania-001",
+      "tags": [
+        "oceania",
+        "white-set",
+        "islands",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "The South Island and the North Island are the two main islands of which country?",
+      "choices": [
+        "Fiji",
+        "Australia",
+        "New Zealand",
+        "Papua New Guinea"
+      ],
+      "answer": 2,
+      "explanation": "New Zealand was the last large landmass settled by humans."
+    },
+    {
+      "id": "white-oceania-002",
+      "tags": [
+        "oceania",
+        "white-set",
+        "countries",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "Which is the only country in the world that covers an entire continent?",
+      "choices": [
+        "Russia",
+        "Australia",
+        "Canada",
+        "Brazil"
+      ],
+      "answer": 1,
+      "explanation": "Australia is both a country and a continent."
+    },
+    {
+      "id": "gold-oceania-001",
+      "tags": [
+        "oceania",
+        "gold-set",
+        "capitals"
+      ],
+      "difficulty": 2,
+      "q": "Apia is the capital of which Polynesian country?",
+      "choices": [
+        "Tonga",
+        "Fiji",
+        "Samoa",
+        "Vanuatu"
+      ],
+      "answer": 2,
+      "explanation": "Samoa was once called 'Western Samoa' to distinguish it from American Samoa."
+    },
+    {
+      "id": "gold-oceania-002",
+      "tags": [
+        "oceania",
+        "gold-set",
+        "cities",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "Sydney and Melbourne are the two largest cities of which country?",
+      "choices": [
+        "New Zealand",
+        "Australia",
+        "Indonesia",
+        "Philippines"
+      ],
+      "answer": 1,
+      "explanation": "Melbourne and Sydney often switch places as Australia's most populous city."
+    },
+    {
+      "id": "blue-oceania-001",
+      "tags": [
+        "oceania",
+        "blue-set",
+        "mountains",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "Mount Cook, New Zealand's tallest mountain, is on which island?",
+      "choices": [
+        "North Island",
+        "South Island",
+        "Stewart Island",
+        "Chatham Island"
+      ],
+      "answer": 1,
+      "explanation": "Mount Cook is called Aoraki in the Maori language."
+    },
+    {
+      "id": "blue-oceania-002",
+      "tags": [
+        "oceania",
+        "blue-set",
+        "capitals"
+      ],
+      "difficulty": 2,
+      "q": "Sydney is the capital of which Australian state?",
+      "choices": [
+        "Victoria",
+        "Queensland",
+        "New South Wales",
+        "Tasmania"
+      ],
+      "answer": 2,
+      "explanation": "Canberra — not Sydney — is Australia's national capital."
+    },
+    {
+      "id": "red-europe-001",
+      "tags": [
+        "europe",
+        "red-set",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "Reykjavik, the world's northernmost capital, is the capital of which country?",
+      "choices": [
+        "Norway",
+        "Finland",
+        "Iceland",
+        "Greenland"
+      ],
+      "answer": 2,
+      "explanation": "Iceland sits on the Mid-Atlantic Ridge and has many active volcanoes."
+    },
+    {
+      "id": "red-europe-002",
+      "tags": [
+        "europe",
+        "red-set",
+        "rivers"
+      ],
+      "difficulty": 2,
+      "q": "The Caspian Sea, the world's largest lake by area, receives water from the Volga and which other river?",
+      "choices": [
+        "Don",
+        "Ural",
+        "Dnieper",
+        "Danube"
+      ],
+      "answer": 1,
+      "explanation": "The Caspian Sea is actually a lake — it has no outlet to the ocean."
+    },
+    {
+      "id": "red-europe-003",
+      "tags": [
+        "europe",
+        "red-set",
+        "cities",
+        "culture"
+      ],
+      "difficulty": 1,
+      "q": "Munich, host of Oktoberfest, is the capital of which German state?",
+      "choices": [
+        "Hesse",
+        "Saxony",
+        "Bavaria",
+        "Brandenburg"
+      ],
+      "answer": 2,
+      "explanation": "Oktoberfest started in 1810 as a royal wedding celebration."
+    },
+    {
+      "id": "red-europe-004",
+      "tags": [
+        "europe",
+        "red-set",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "What is the world's smallest country by area?",
+      "choices": [
+        "Monaco",
+        "San Marino",
+        "Liechtenstein",
+        "Vatican City"
+      ],
+      "answer": 3,
+      "explanation": "Vatican City is just 0.19 square miles."
+    },
+    {
+      "id": "red-europe-005",
+      "tags": [
+        "europe",
+        "red-set",
+        "countries",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "Monaco, a tiny city-state, is located on which famous coastline?",
+      "choices": [
+        "Amalfi Coast",
+        "French Riviera",
+        "Costa del Sol",
+        "Algarve"
+      ],
+      "answer": 1,
+      "explanation": "Monaco is the second-smallest country in the world after Vatican City."
+    },
+    {
+      "id": "white-europe-001",
+      "tags": [
+        "europe",
+        "white-set",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "Edinburgh is the capital of which constituent country of the United Kingdom?",
+      "choices": [
+        "Wales",
+        "Northern Ireland",
+        "Scotland",
+        "England"
+      ],
+      "answer": 2,
+      "explanation": "Edinburgh has a famous castle built on top of an extinct volcano."
+    },
+    {
+      "id": "white-europe-002",
+      "tags": [
+        "europe",
+        "white-set",
+        "physical",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Turkey is split between Europe and Asia and sits largely on which plateau?",
+      "choices": [
+        "Iberian",
+        "Anatolian",
+        "Tibetan",
+        "Iranian"
+      ],
+      "answer": 1,
+      "explanation": "Only about 3% of Turkey's land is in Europe."
+    },
+    {
+      "id": "white-europe-003",
+      "tags": [
+        "europe",
+        "white-set",
+        "countries",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "Norway, Sweden, and Denmark together form which northern European cultural region?",
+      "choices": [
+        "Baltics",
+        "Benelux",
+        "Scandinavia",
+        "Iberia"
+      ],
+      "answer": 2,
+      "explanation": "Add Iceland and Finland and you get the broader 'Nordic countries.'"
+    },
+    {
+      "id": "white-europe-004",
+      "tags": [
+        "europe",
+        "white-set",
+        "cities",
+        "culture"
+      ],
+      "difficulty": 2,
+      "q": "Bologna, Italy is home to the oldest extant university in which part of the world?",
+      "choices": [
+        "the Western world",
+        "Asia",
+        "the Americas",
+        "the Middle East"
+      ],
+      "answer": 0,
+      "explanation": "The University of Bologna was founded in 1088."
+    },
+    {
+      "id": "white-europe-005",
+      "tags": [
+        "europe",
+        "white-set",
+        "cities",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "Red Square and the Kremlin are landmarks in which capital city?",
+      "choices": [
+        "Saint Petersburg",
+        "Kyiv",
+        "Minsk",
+        "Moscow"
+      ],
+      "answer": 3,
+      "explanation": "St. Basil's Cathedral, with its colorful onion domes, sits on Red Square."
+    },
+    {
+      "id": "gold-europe-001",
+      "tags": [
+        "europe",
+        "gold-set",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "What is the largest country in Western Europe that is NOT a member of the European Union?",
+      "choices": [
+        "Norway",
+        "Switzerland",
+        "United Kingdom",
+        "Iceland"
+      ],
+      "answer": 1,
+      "explanation": "Switzerland has stayed neutral and outside the EU."
+    },
+    {
+      "id": "gold-europe-002",
+      "tags": [
+        "europe",
+        "gold-set",
+        "culture",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "The famous 'Running of the Bulls' takes place in Pamplona, in which country?",
+      "choices": [
+        "Portugal",
+        "Italy",
+        "Spain",
+        "France"
+      ],
+      "answer": 2,
+      "explanation": "It happens every July during the festival of San Fermin."
+    },
+    {
+      "id": "gold-europe-003",
+      "tags": [
+        "europe",
+        "gold-set",
+        "capitals",
+        "rivers"
+      ],
+      "difficulty": 2,
+      "q": "Amsterdam, famous for its many canals, is the capital of which country?",
+      "choices": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "answer": 1,
+      "explanation": "Amsterdam has over 100 km of canals and about 1,500 bridges."
+    },
+    {
+      "id": "gold-europe-004",
+      "tags": [
+        "europe",
+        "gold-set",
+        "capitals",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "Kyiv is the capital of which country, located near the Crimean Peninsula?",
+      "choices": [
+        "Belarus",
+        "Romania",
+        "Poland",
+        "Ukraine"
+      ],
+      "answer": 3,
+      "explanation": "Kyiv is one of the oldest cities of Eastern Europe."
+    },
+    {
+      "id": "gold-europe-005",
+      "tags": [
+        "europe",
+        "gold-set",
+        "cities",
+        "culture"
+      ],
+      "difficulty": 2,
+      "q": "The Nobel Peace Prize is awarded in which Norwegian city?",
+      "choices": [
+        "Bergen",
+        "Stockholm",
+        "Oslo",
+        "Copenhagen"
+      ],
+      "answer": 2,
+      "explanation": "All other Nobel Prizes are awarded in Stockholm, Sweden."
+    },
+    {
+      "id": "blue-europe-001",
+      "tags": [
+        "europe",
+        "blue-set",
+        "rivers",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "Saint Petersburg, Russia's second-largest city, sits on which river?",
+      "choices": [
+        "Volga",
+        "Don",
+        "Neva",
+        "Dnieper"
+      ],
+      "answer": 2,
+      "explanation": "St. Petersburg was Russia's capital from 1712 to 1918."
+    },
+    {
+      "id": "blue-europe-002",
+      "tags": [
+        "europe",
+        "blue-set",
+        "capitals",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "Valletta is the capital of which small island country in the Mediterranean?",
+      "choices": [
+        "Cyprus",
+        "Malta",
+        "Crete",
+        "Sicily"
+      ],
+      "answer": 1,
+      "explanation": "Malta is one of the smallest countries in the EU."
+    },
+    {
+      "id": "blue-europe-003",
+      "tags": [
+        "europe",
+        "blue-set",
+        "capitals",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "Bucharest is the capital of which country bordering Moldova?",
+      "choices": [
+        "Bulgaria",
+        "Hungary",
+        "Romania",
+        "Serbia"
+      ],
+      "answer": 2,
+      "explanation": "Romanian is a Romance language, like Spanish and Italian."
+    },
+    {
+      "id": "blue-europe-004",
+      "tags": [
+        "europe",
+        "blue-set",
+        "physical"
+      ],
+      "difficulty": 2,
+      "q": "Norway's Atlantic coast is famous for its many narrow inlets called what?",
+      "choices": [
+        "bays",
+        "fjords",
+        "lochs",
+        "sounds"
+      ],
+      "answer": 1,
+      "explanation": "Fjords were carved by glaciers during the last Ice Age."
+    },
+    {
+      "id": "bonus-europe-001",
+      "tags": [
+        "europe",
+        "bonus-set",
+        "culture",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Vatican City is the headquarters of which Christian church?",
+      "choices": [
+        "Eastern Orthodox",
+        "Anglican",
+        "Roman Catholic",
+        "Lutheran"
+      ],
+      "answer": 2,
+      "explanation": "The Pope is the head of the Roman Catholic Church."
+    },
+    {
+      "id": "red-us-canada-001",
+      "tags": [
+        "us-canada",
+        "red-set",
+        "cities"
+      ],
+      "difficulty": 1,
+      "q": "The Texas Panhandle, in the north of the state, contains which city?",
+      "choices": [
+        "Houston",
+        "Austin",
+        "Amarillo",
+        "El Paso"
+      ],
+      "answer": 2,
+      "explanation": "Amarillo means 'yellow' in Spanish."
+    },
+    {
+      "id": "red-us-canada-002",
+      "tags": [
+        "us-canada",
+        "red-set",
+        "capitals",
+        "culture"
+      ],
+      "difficulty": 1,
+      "q": "Nashville, home of the Grand Ole Opry, is the capital of which state?",
+      "choices": [
+        "Kentucky",
+        "Tennessee",
+        "Georgia",
+        "Alabama"
+      ],
+      "answer": 1,
+      "explanation": "Nashville is nicknamed 'Music City' for its country music scene."
+    },
+    {
+      "id": "red-us-canada-003",
+      "tags": [
+        "us-canada",
+        "red-set",
+        "cities"
+      ],
+      "difficulty": 1,
+      "q": "The Space Needle is an iconic landmark of which U.S. city?",
+      "choices": [
+        "Portland",
+        "San Francisco",
+        "Seattle",
+        "Denver"
+      ],
+      "answer": 2,
+      "explanation": "The Space Needle was built for the 1962 World's Fair."
+    },
+    {
+      "id": "red-us-canada-004",
+      "tags": [
+        "us-canada",
+        "red-set",
+        "cities",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "Toronto is the largest city of Canada and the capital of which province?",
+      "choices": [
+        "Quebec",
+        "Alberta",
+        "British Columbia",
+        "Ontario"
+      ],
+      "answer": 3,
+      "explanation": "Ontario contains roughly 40% of Canada's total population."
+    },
+    {
+      "id": "red-us-canada-005",
+      "tags": [
+        "us-canada",
+        "red-set",
+        "rivers"
+      ],
+      "difficulty": 1,
+      "q": "Which is the only Great Lake located completely within the United States?",
+      "choices": [
+        "Lake Superior",
+        "Lake Michigan",
+        "Lake Huron",
+        "Lake Erie"
+      ],
+      "answer": 1,
+      "explanation": "Chicago and Milwaukee both sit on Lake Michigan's shores."
+    },
+    {
+      "id": "red-us-canada-006",
+      "tags": [
+        "us-canada",
+        "red-set",
+        "rivers",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "Arizona's nickname comes from the Grand Canyon, which was carved by which river?",
+      "choices": [
+        "Rio Grande",
+        "Colorado",
+        "Snake",
+        "Gila"
+      ],
+      "answer": 1,
+      "explanation": "The Grand Canyon is about a mile deep and 277 miles long."
+    },
+    {
+      "id": "red-us-canada-007",
+      "tags": [
+        "us-canada",
+        "red-set",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Which is the least-populous U.S. state?",
+      "choices": [
+        "Vermont",
+        "Alaska",
+        "Wyoming",
+        "North Dakota"
+      ],
+      "answer": 2,
+      "explanation": "Wyoming has fewer than 600,000 people."
+    },
+    {
+      "id": "white-us-canada-001",
+      "tags": [
+        "us-canada",
+        "white-set",
+        "cities"
+      ],
+      "difficulty": 1,
+      "q": "Quebec City is the oldest walled city in which part of the world?",
+      "choices": [
+        "North America",
+        "South America",
+        "the Caribbean",
+        "Central America"
+      ],
+      "answer": 0,
+      "explanation": "Quebec City was founded in 1608 by Samuel de Champlain."
+    },
+    {
+      "id": "white-us-canada-002",
+      "tags": [
+        "us-canada",
+        "white-set",
+        "physical",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "'Big Sky Country' is the official nickname of which state?",
+      "choices": [
+        "Wyoming",
+        "Idaho",
+        "Montana",
+        "South Dakota"
+      ],
+      "answer": 2,
+      "explanation": "Montana is the fourth-largest U.S. state by area."
+    },
+    {
+      "id": "white-us-canada-003",
+      "tags": [
+        "us-canada",
+        "white-set",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "Which New York City borough is the smallest by population and reachable by ferry?",
+      "choices": [
+        "Brooklyn",
+        "Queens",
+        "The Bronx",
+        "Staten Island"
+      ],
+      "answer": 3,
+      "explanation": "The Staten Island Ferry carries about 22 million passengers a year — for free."
+    },
+    {
+      "id": "white-us-canada-004",
+      "tags": [
+        "us-canada",
+        "white-set",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "Parliament Hill, the seat of Canada's federal government, is in which city?",
+      "choices": [
+        "Toronto",
+        "Montreal",
+        "Ottawa",
+        "Vancouver"
+      ],
+      "answer": 2,
+      "explanation": "Ottawa was chosen as Canada's capital by Queen Victoria in 1857."
+    },
+    {
+      "id": "white-us-canada-005",
+      "tags": [
+        "us-canada",
+        "white-set",
+        "mountains",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "The Appalachian Trail stretches from Maine south to which state?",
+      "choices": [
+        "North Carolina",
+        "Georgia",
+        "Tennessee",
+        "Virginia"
+      ],
+      "answer": 1,
+      "explanation": "The Appalachian Trail is about 2,200 miles long."
+    },
+    {
+      "id": "white-us-canada-006",
+      "tags": [
+        "us-canada",
+        "white-set",
+        "cities"
+      ],
+      "difficulty": 1,
+      "q": "The Golden Gate Bridge and Palace of Fine Arts are landmarks of which city?",
+      "choices": [
+        "Los Angeles",
+        "Seattle",
+        "San Francisco",
+        "Portland"
+      ],
+      "answer": 2,
+      "explanation": "The Golden Gate Bridge opened in 1937."
+    },
+    {
+      "id": "gold-us-canada-001",
+      "tags": [
+        "us-canada",
+        "gold-set",
+        "mountains",
+        "physical"
+      ],
+      "difficulty": 2,
+      "q": "Death Valley, where one of Earth's hottest temperatures was recorded, is in which desert?",
+      "choices": [
+        "Sonoran",
+        "Mojave",
+        "Chihuahuan",
+        "Great Basin"
+      ],
+      "answer": 1,
+      "explanation": "Death Valley reached 134 F in 1913."
+    },
+    {
+      "id": "gold-us-canada-002",
+      "tags": [
+        "us-canada",
+        "gold-set",
+        "rivers",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "Portland, Oregon's largest city, sits near the mouth of which river?",
+      "choices": [
+        "Snake",
+        "Columbia",
+        "Willamette",
+        "Deschutes"
+      ],
+      "answer": 2,
+      "explanation": "The Willamette flows north and joins the Columbia River near Portland."
+    },
+    {
+      "id": "gold-us-canada-003",
+      "tags": [
+        "us-canada",
+        "gold-set",
+        "rivers"
+      ],
+      "difficulty": 2,
+      "q": "The Hoover Dam on the Colorado River creates which large reservoir?",
+      "choices": [
+        "Lake Powell",
+        "Lake Mead",
+        "Lake Havasu",
+        "Lake Tahoe"
+      ],
+      "answer": 1,
+      "explanation": "Lake Mead is the largest reservoir in the U.S. by volume."
+    },
+    {
+      "id": "gold-us-canada-004",
+      "tags": [
+        "us-canada",
+        "gold-set",
+        "rivers"
+      ],
+      "difficulty": 2,
+      "q": "What is the longest river in the United States?",
+      "choices": [
+        "Mississippi",
+        "Missouri",
+        "Colorado",
+        "Rio Grande"
+      ],
+      "answer": 1,
+      "explanation": "The Missouri River is about 2,341 miles long."
+    },
+    {
+      "id": "blue-us-canada-001",
+      "tags": [
+        "us-canada",
+        "blue-set",
+        "rivers"
+      ],
+      "difficulty": 2,
+      "q": "Maryland encompasses the northern half of which large bay?",
+      "choices": [
+        "Delaware Bay",
+        "Chesapeake Bay",
+        "Tampa Bay",
+        "Massachusetts Bay"
+      ],
+      "answer": 1,
+      "explanation": "The Chesapeake is the largest estuary in the United States."
+    },
+    {
+      "id": "blue-us-canada-002",
+      "tags": [
+        "us-canada",
+        "blue-set",
+        "cities",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "Long Island contains Brooklyn and which other New York City borough?",
+      "choices": [
+        "Manhattan",
+        "The Bronx",
+        "Queens",
+        "Staten Island"
+      ],
+      "answer": 2,
+      "explanation": "Long Island is the most populous island in the U.S."
+    },
+    {
+      "id": "blue-us-canada-003",
+      "tags": [
+        "us-canada",
+        "blue-set",
+        "capitals"
+      ],
+      "difficulty": 2,
+      "q": "What is the largest U.S. state capital by population?",
+      "choices": [
+        "Austin",
+        "Phoenix",
+        "Sacramento",
+        "Boston"
+      ],
+      "answer": 1,
+      "explanation": "Phoenix has more than 1.6 million residents."
+    },
+    {
+      "id": "blue-us-canada-004",
+      "tags": [
+        "us-canada",
+        "blue-set",
+        "capitals",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "Honolulu, capital of Hawaii, is located on which island?",
+      "choices": [
+        "Maui",
+        "Kauai",
+        "Hawaii (Big Island)",
+        "Oahu"
+      ],
+      "answer": 3,
+      "explanation": "Pearl Harbor and Waikiki Beach are also on Oahu."
+    },
+    {
+      "id": "blue-us-canada-005",
+      "tags": [
+        "us-canada",
+        "blue-set",
+        "rivers",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "The Niagara River creates part of the border between Canada and which country?",
+      "choices": [
+        "the United States",
+        "Greenland",
+        "Mexico",
+        "Russia"
+      ],
+      "answer": 0,
+      "explanation": "Niagara Falls is split between Ontario, Canada and New York State."
+    },
+    {
+      "id": "red-latin-america-001",
+      "tags": [
+        "latin-america",
+        "red-set",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Uruguay is sandwiched between which two larger South American countries?",
+      "choices": [
+        "Brazil and Bolivia",
+        "Argentina and Brazil",
+        "Argentina and Chile",
+        "Paraguay and Brazil"
+      ],
+      "answer": 1,
+      "explanation": "Uruguay's capital, Montevideo, sits on the Rio de la Plata estuary."
+    },
+    {
+      "id": "red-latin-america-002",
+      "tags": [
+        "latin-america",
+        "red-set",
+        "rivers"
+      ],
+      "difficulty": 1,
+      "q": "The Amazon River starts in Peru. It flows mostly through which country?",
+      "choices": [
+        "Colombia",
+        "Venezuela",
+        "Brazil",
+        "Ecuador"
+      ],
+      "answer": 2,
+      "explanation": "The Amazon rainforest produces about 20% of Earth's oxygen."
+    },
+    {
+      "id": "red-latin-america-003",
+      "tags": [
+        "latin-america",
+        "red-set",
+        "countries",
+        "culture"
+      ],
+      "difficulty": 1,
+      "q": "Mexico's flag features an eagle eating a snake while perched on what kind of plant?",
+      "choices": [
+        "palm tree",
+        "cactus",
+        "agave",
+        "corn stalk"
+      ],
+      "answer": 1,
+      "explanation": "The image comes from an Aztec legend about the founding of Tenochtitlan."
+    },
+    {
+      "id": "white-latin-america-001",
+      "tags": [
+        "latin-america",
+        "white-set",
+        "islands",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "The Falkland Islands lie off the coast of which South American country?",
+      "choices": [
+        "Chile",
+        "Brazil",
+        "Uruguay",
+        "Argentina"
+      ],
+      "answer": 3,
+      "explanation": "The UK and Argentina fought a war over the islands in 1982."
+    },
+    {
+      "id": "white-latin-america-002",
+      "tags": [
+        "latin-america",
+        "white-set",
+        "mountains"
+      ],
+      "difficulty": 1,
+      "q": "Aconcagua, the highest peak outside Asia, is in which mountain range?",
+      "choices": [
+        "Rockies",
+        "Sierra Madre",
+        "Andes",
+        "Atlas"
+      ],
+      "answer": 2,
+      "explanation": "Aconcagua reaches 22,841 feet and stands in Argentina."
+    },
+    {
+      "id": "white-latin-america-003",
+      "tags": [
+        "latin-america",
+        "white-set",
+        "cities",
+        "culture"
+      ],
+      "difficulty": 1,
+      "q": "Machu Picchu, an ancient Incan site, is found in which country?",
+      "choices": [
+        "Bolivia",
+        "Ecuador",
+        "Chile",
+        "Peru"
+      ],
+      "answer": 3,
+      "explanation": "Machu Picchu sits about 7,970 feet up in the Andes."
+    },
+    {
+      "id": "white-latin-america-004",
+      "tags": [
+        "latin-america",
+        "white-set",
+        "islands",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "The island of Hispaniola is shared by Haiti and which other country?",
+      "choices": [
+        "Cuba",
+        "Jamaica",
+        "Dominican Republic",
+        "Puerto Rico"
+      ],
+      "answer": 2,
+      "explanation": "Christopher Columbus landed on Hispaniola in 1492."
+    },
+    {
+      "id": "gold-latin-america-001",
+      "tags": [
+        "latin-america",
+        "gold-set",
+        "rivers"
+      ],
+      "difficulty": 2,
+      "q": "The Orinoco is the primary river of which South American country?",
+      "choices": [
+        "Colombia",
+        "Venezuela",
+        "Guyana",
+        "Brazil"
+      ],
+      "answer": 1,
+      "explanation": "The Orinoco is one of the longest rivers in South America."
+    },
+    {
+      "id": "gold-latin-america-002",
+      "tags": [
+        "latin-america",
+        "gold-set",
+        "capitals",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "Bridgetown is the capital of which Caribbean island country?",
+      "choices": [
+        "Bahamas",
+        "Trinidad and Tobago",
+        "Barbados",
+        "Jamaica"
+      ],
+      "answer": 2,
+      "explanation": "Barbados is the easternmost country in the Caribbean."
+    },
+    {
+      "id": "gold-latin-america-003",
+      "tags": [
+        "latin-america",
+        "gold-set",
+        "capitals",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "Asuncion is the capital of which landlocked South American country?",
+      "choices": [
+        "Bolivia",
+        "Paraguay",
+        "Uruguay",
+        "Ecuador"
+      ],
+      "answer": 1,
+      "explanation": "Paraguay borders Brazil, Argentina, and Bolivia."
+    },
+    {
+      "id": "blue-latin-america-001",
+      "tags": [
+        "latin-america",
+        "blue-set",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "What is the largest Central American country by population?",
+      "choices": [
+        "Honduras",
+        "Nicaragua",
+        "Guatemala",
+        "Costa Rica"
+      ],
+      "answer": 2,
+      "explanation": "Guatemala has over 17 million people and a strong Mayan heritage."
+    },
+    {
+      "id": "blue-latin-america-002",
+      "tags": [
+        "latin-america",
+        "blue-set",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "Which is the largest island in the Caribbean Sea?",
+      "choices": [
+        "Hispaniola",
+        "Jamaica",
+        "Puerto Rico",
+        "Cuba"
+      ],
+      "answer": 3,
+      "explanation": "Cuba is about as large as Pennsylvania."
+    },
+    {
+      "id": "blue-latin-america-003",
+      "tags": [
+        "latin-america",
+        "blue-set",
+        "capitals"
+      ],
+      "difficulty": 2,
+      "q": "Bogota is the capital of which South American country?",
+      "choices": [
+        "Ecuador",
+        "Colombia",
+        "Peru",
+        "Venezuela"
+      ],
+      "answer": 1,
+      "explanation": "Bogota sits about 8,660 feet up in the Andes."
+    },
+    {
+      "id": "blue-latin-america-004",
+      "tags": [
+        "latin-america",
+        "blue-set",
+        "capitals",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "Caracas is the capital of which oil-rich South American country?",
+      "choices": [
+        "Brazil",
+        "Colombia",
+        "Venezuela",
+        "Argentina"
+      ],
+      "answer": 2,
+      "explanation": "Venezuela has the world's largest known oil reserves."
+    },
+    {
+      "id": "bonus-europe-002",
+      "tags": [
+        "europe",
+        "bonus-set",
+        "mountains",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "The Pyrenees mountain range forms a natural border between France and which country?",
+      "choices": [
+        "Italy",
+        "Switzerland",
+        "Spain",
+        "Portugal"
+      ],
+      "answer": 2,
+      "explanation": "The tiny country of Andorra sits high in the Pyrenees."
+    },
+    {
+      "id": "bonus-asia-002",
+      "tags": [
+        "asia",
+        "bonus-set",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "Taipei 101, once the world's tallest building, is in which country?",
+      "choices": [
+        "Japan",
+        "Taiwan",
+        "South Korea",
+        "Singapore"
+      ],
+      "answer": 1,
+      "explanation": "Taipei 101 has 101 floors above ground."
+    },
+    {
+      "id": "bonus-europe-003",
+      "tags": [
+        "europe",
+        "bonus-set",
+        "physical",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "The Bosporus is a strait that splits which city between two continents?",
+      "choices": [
+        "Athens",
+        "Cairo",
+        "Istanbul",
+        "Jerusalem"
+      ],
+      "answer": 2,
+      "explanation": "It separates Europe from Asia and connects the Black Sea to the Mediterranean."
+    },
+    {
+      "id": "bonus-latin-america-001",
+      "tags": [
+        "latin-america",
+        "bonus-set",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "Easter Island, famous for huge stone head statues, belongs to which country?",
+      "choices": [
+        "Peru",
+        "Chile",
+        "Ecuador",
+        "New Zealand"
+      ],
+      "answer": 1,
+      "explanation": "The statues are called 'moai' and were carved by the Rapa Nui people."
+    },
+    {
+      "id": "bonus-africa-002",
+      "tags": [
+        "africa",
+        "bonus-set",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Kenya?",
+      "choices": [
+        "Mombasa",
+        "Kampala",
+        "Nairobi",
+        "Dar es Salaam"
+      ],
+      "answer": 2,
+      "explanation": "Nairobi is one of the few capitals with a national park inside the city limits."
+    },
+    {
+      "id": "bonus-us-canada-001",
+      "tags": [
+        "us-canada",
+        "bonus-set",
+        "countries",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "British Columbia is the westernmost province of which country?",
+      "choices": [
+        "United States",
+        "Canada",
+        "United Kingdom",
+        "Australia"
+      ],
+      "answer": 1,
+      "explanation": "Its capital is Victoria, but its largest city is Vancouver."
+    },
+    {
+      "id": "bonus-us-canada-002",
+      "tags": [
+        "us-canada",
+        "bonus-set",
+        "physical",
+        "mountains"
+      ],
+      "difficulty": 1,
+      "q": "Yellowstone National Park, the world's first national park, is mostly in which state?",
+      "choices": [
+        "Montana",
+        "Idaho",
+        "Wyoming",
+        "Colorado"
+      ],
+      "answer": 2,
+      "explanation": "Yellowstone sits on top of a giant supervolcano."
+    },
+    {
+      "id": "bonus-africa-003",
+      "tags": [
+        "africa",
+        "bonus-set",
+        "rivers",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "Victoria Falls is on the border of Zimbabwe and which other African country?",
+      "choices": [
+        "Zambia",
+        "Botswana",
+        "Mozambique",
+        "Namibia"
+      ],
+      "answer": 0,
+      "explanation": "Locals call it 'Mosi-oa-Tunya' — 'the smoke that thunders.'"
+    },
+    {
+      "id": "bonus-africa-004",
+      "tags": [
+        "africa",
+        "bonus-set",
+        "mountains"
+      ],
+      "difficulty": 2,
+      "q": "The Atlas Mountains run through which northern African region?",
+      "choices": [
+        "Sahel",
+        "Maghreb",
+        "Horn of Africa",
+        "Nile Valley"
+      ],
+      "answer": 1,
+      "explanation": "The Atlas Mountains pass through Morocco, Algeria, and Tunisia."
+    },
+    {
+      "id": "bonus-europe-004",
+      "tags": [
+        "europe",
+        "bonus-set",
+        "mountains"
+      ],
+      "difficulty": 2,
+      "q": "Mont Blanc, the highest peak in the Alps, sits between France and which country?",
+      "choices": [
+        "Switzerland",
+        "Italy",
+        "Austria",
+        "Germany"
+      ],
+      "answer": 1,
+      "explanation": "Mont Blanc means 'White Mountain' in French."
+    },
+    {
+      "id": "bonus-latin-america-002",
+      "tags": [
+        "latin-america",
+        "bonus-set",
+        "cities"
+      ],
+      "difficulty": 1,
+      "q": "Christ the Redeemer statue overlooks which Brazilian city?",
+      "choices": [
+        "Sao Paulo",
+        "Brasilia",
+        "Salvador",
+        "Rio de Janeiro"
+      ],
+      "answer": 3,
+      "explanation": "The statue is about 98 feet tall and stands on Corcovado Mountain."
+    },
+    {
+      "id": "bonus-asia-003",
+      "tags": [
+        "asia",
+        "bonus-set",
+        "rivers",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "The Three Gorges Dam, the world's largest hydroelectric dam, is on which river?",
+      "choices": [
+        "Mekong",
+        "Yangtze",
+        "Yellow",
+        "Indus"
+      ],
+      "answer": 1,
+      "explanation": "The Yangtze is Asia's longest river."
+    },
+    {
+      "id": "bonus-asia-004",
+      "tags": [
+        "asia",
+        "bonus-set",
+        "physical",
+        "countries"
+      ],
+      "difficulty": 3,
+      "q": "The Khyber Pass connects Afghanistan and which other country?",
+      "choices": [
+        "Iran",
+        "Tajikistan",
+        "Pakistan",
+        "Uzbekistan"
+      ],
+      "answer": 2,
+      "explanation": "It has been a major trade and invasion route for thousands of years."
+    },
+    {
+      "id": "bonus-us-canada-003",
+      "tags": [
+        "us-canada",
+        "bonus-set",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "Greenland, the world's largest island, is a territory of which country?",
+      "choices": [
+        "Norway",
+        "Iceland",
+        "Denmark",
+        "Canada"
+      ],
+      "answer": 2,
+      "explanation": "Greenland is geographically part of North America but politically tied to Europe."
+    },
+    {
+      "id": "bonus-oceania-001",
+      "tags": [
+        "oceania",
+        "bonus-set",
+        "physical"
+      ],
+      "difficulty": 2,
+      "q": "What is the deepest ocean trench on Earth?",
+      "choices": [
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Java Trench",
+        "Tonga Trench"
+      ],
+      "answer": 1,
+      "explanation": "The Mariana Trench reaches about 36,000 feet below sea level."
+    },
+    {
+      "id": "uscap-001",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of New York?",
+      "choices": [
+        "New York City",
+        "Buffalo",
+        "Rochester",
+        "Albany"
+      ],
+      "answer": 3,
+      "explanation": "Albany has been New York's capital since 1797, despite NYC being far larger."
+    },
+    {
+      "id": "uscap-002",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of California?",
+      "choices": [
+        "Los Angeles",
+        "San Francisco",
+        "Sacramento",
+        "San Diego"
+      ],
+      "answer": 2,
+      "explanation": "Sacramento became California's capital in 1854 during the Gold Rush era."
+    },
+    {
+      "id": "uscap-003",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Illinois?",
+      "choices": [
+        "Chicago",
+        "Rockford",
+        "Peoria",
+        "Springfield"
+      ],
+      "answer": 3,
+      "explanation": "Springfield is also known as the hometown of Abraham Lincoln."
+    },
+    {
+      "id": "uscap-004",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Texas?",
+      "choices": [
+        "Houston",
+        "Dallas",
+        "San Antonio",
+        "Austin"
+      ],
+      "answer": 3,
+      "explanation": "Austin is named after Stephen F. Austin, the 'Father of Texas.'"
+    },
+    {
+      "id": "uscap-005",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Florida?",
+      "choices": [
+        "Miami",
+        "Orlando",
+        "Jacksonville",
+        "Tallahassee"
+      ],
+      "answer": 3,
+      "explanation": "Tallahassee was chosen as a midpoint between the two old capitals of St. Augustine and Pensacola."
+    },
+    {
+      "id": "uscap-006",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Pennsylvania?",
+      "choices": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Harrisburg",
+        "Allentown"
+      ],
+      "answer": 2,
+      "explanation": "Harrisburg sits on the Susquehanna River in south-central Pennsylvania."
+    },
+    {
+      "id": "uscap-007",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Michigan?",
+      "choices": [
+        "Detroit",
+        "Grand Rapids",
+        "Ann Arbor",
+        "Lansing"
+      ],
+      "answer": 3,
+      "explanation": "Lansing became the capital in 1847, chosen partly for its central location in the state."
+    },
+    {
+      "id": "uscap-008",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Washington state?",
+      "choices": [
+        "Seattle",
+        "Tacoma",
+        "Spokane",
+        "Olympia"
+      ],
+      "answer": 3,
+      "explanation": "Olympia is located at the southern tip of Puget Sound."
+    },
+    {
+      "id": "uscap-009",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Nevada?",
+      "choices": [
+        "Las Vegas",
+        "Reno",
+        "Henderson",
+        "Carson City"
+      ],
+      "answer": 3,
+      "explanation": "Carson City is named after frontiersman Kit Carson."
+    },
+    {
+      "id": "uscap-010",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Oregon?",
+      "choices": [
+        "Portland",
+        "Eugene",
+        "Salem",
+        "Bend"
+      ],
+      "answer": 2,
+      "explanation": "Salem is located in the Willamette Valley between Portland and Eugene."
+    },
+    {
+      "id": "uscap-011",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Tallahassee is the capital of which US state?",
+      "choices": [
+        "Georgia",
+        "Alabama",
+        "Florida",
+        "Louisiana"
+      ],
+      "answer": 2,
+      "explanation": "Tallahassee is in the Florida Panhandle, far from the state's famous beaches."
+    },
+    {
+      "id": "uscap-012",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Sacramento is the capital of which US state?",
+      "choices": [
+        "Oregon",
+        "Nevada",
+        "California",
+        "Arizona"
+      ],
+      "answer": 2,
+      "explanation": "Sacramento grew rapidly as a supply center during the 1849 Gold Rush."
+    },
+    {
+      "id": "uscap-013",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Albany is the capital of which US state?",
+      "choices": [
+        "Connecticut",
+        "New Jersey",
+        "New York",
+        "Massachusetts"
+      ],
+      "answer": 2,
+      "explanation": "Albany is one of the oldest surviving European settlements in the US."
+    },
+    {
+      "id": "uscap-014",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Springfield is the capital of which US state?",
+      "choices": [
+        "Missouri",
+        "Ohio",
+        "Indiana",
+        "Illinois"
+      ],
+      "answer": 3,
+      "explanation": "Abraham Lincoln lived in Springfield for 25 years before becoming president."
+    },
+    {
+      "id": "uscap-015",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Olympia is the capital of which US state?",
+      "choices": [
+        "Oregon",
+        "Washington",
+        "Montana",
+        "Idaho"
+      ],
+      "answer": 1,
+      "explanation": "Olympia is much smaller than Seattle, Washington's largest city."
+    },
+    {
+      "id": "uscap-016",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Lansing is the capital of which US state?",
+      "choices": [
+        "Wisconsin",
+        "Michigan",
+        "Ohio",
+        "Minnesota"
+      ],
+      "answer": 1,
+      "explanation": "Michigan's largest city is Detroit, not its capital Lansing."
+    },
+    {
+      "id": "uscap-017",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Frankfort is the capital of which US state?",
+      "choices": [
+        "Tennessee",
+        "Virginia",
+        "Kentucky",
+        "West Virginia"
+      ],
+      "answer": 2,
+      "explanation": "Frankfort is one of the smallest US state capitals by population."
+    },
+    {
+      "id": "uscap-018",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Trenton is the capital of which US state?",
+      "choices": [
+        "Delaware",
+        "New Jersey",
+        "Connecticut",
+        "New York"
+      ],
+      "answer": 1,
+      "explanation": "George Washington famously crossed the Delaware to attack Trenton in 1776."
+    },
+    {
+      "id": "uscap-019",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Which of these cities is a US state capital?",
+      "choices": [
+        "New York City",
+        "Los Angeles",
+        "Trenton",
+        "Miami"
+      ],
+      "answer": 2,
+      "explanation": "Trenton is the capital of New Jersey. The other three are not state capitals."
+    },
+    {
+      "id": "uscap-020",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Which of these cities is a US state capital?",
+      "choices": [
+        "Chicago",
+        "Detroit",
+        "Springfield",
+        "Milwaukee"
+      ],
+      "answer": 2,
+      "explanation": "Springfield is the capital of Illinois. Chicago is the largest city but not the capital."
+    },
+    {
+      "id": "uscap-021",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Which of these cities is a US state capital?",
+      "choices": [
+        "Las Vegas",
+        "Portland",
+        "Carson City",
+        "Seattle"
+      ],
+      "answer": 2,
+      "explanation": "Carson City is Nevada's capital. Las Vegas is far more famous but is not the capital."
+    },
+    {
+      "id": "uscap-022",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Which of these cities is a US state capital?",
+      "choices": [
+        "San Francisco",
+        "Houston",
+        "Tallahassee",
+        "Charlotte"
+      ],
+      "answer": 2,
+      "explanation": "Tallahassee is Florida's capital. Houston and Charlotte are the largest cities in their states but not capitals."
+    },
+    {
+      "id": "uscap-023",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Which of these cities is a US state capital?",
+      "choices": [
+        "Philadelphia",
+        "Harrisburg",
+        "Pittsburgh",
+        "Allentown"
+      ],
+      "answer": 1,
+      "explanation": "Harrisburg is Pennsylvania's capital, not Philadelphia despite its historical importance."
+    },
+    {
+      "id": "uscap-024",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Missouri?",
+      "choices": [
+        "St. Louis",
+        "Kansas City",
+        "Jefferson City",
+        "Springfield"
+      ],
+      "answer": 2,
+      "explanation": "Jefferson City is named after Thomas Jefferson and sits on the Missouri River."
+    },
+    {
+      "id": "uscap-025",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Louisiana?",
+      "choices": [
+        "New Orleans",
+        "Shreveport",
+        "Baton Rouge",
+        "Lafayette"
+      ],
+      "answer": 2,
+      "explanation": "Baton Rouge means 'red stick' in French."
+    },
+    {
+      "id": "uscap-026",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Minnesota?",
+      "choices": [
+        "Minneapolis",
+        "Duluth",
+        "Rochester",
+        "St. Paul"
+      ],
+      "answer": 3,
+      "explanation": "St. Paul and Minneapolis are twin cities separated by the Mississippi River."
+    },
+    {
+      "id": "uscap-027",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of New Jersey?",
+      "choices": [
+        "Newark",
+        "Jersey City",
+        "Trenton",
+        "Atlantic City"
+      ],
+      "answer": 2,
+      "explanation": "Trenton has been New Jersey's capital since 1790."
+    },
+    {
+      "id": "uscap-028",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Kentucky?",
+      "choices": [
+        "Louisville",
+        "Lexington",
+        "Frankfort",
+        "Bowling Green"
+      ],
+      "answer": 2,
+      "explanation": "Frankfort is much smaller than both Louisville and Lexington."
+    },
+    {
+      "id": "uscap-029",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of South Dakota?",
+      "choices": [
+        "Sioux Falls",
+        "Rapid City",
+        "Aberdeen",
+        "Pierre"
+      ],
+      "answer": 3,
+      "explanation": "Pierre is one of the least-populous US state capitals with about 14,000 people."
+    },
+    {
+      "id": "uscap-030",
+      "tags": [
+        "capitals",
+        "us-canada",
+        "us-state-capitals"
+      ],
+      "difficulty": 1,
+      "q": "Which of these cities is a US state capital?",
+      "choices": [
+        "Birmingham",
+        "Anchorage",
+        "Juneau",
+        "Virginia Beach"
+      ],
+      "answer": 2,
+      "explanation": "Juneau is Alaska's capital, accessible only by boat or plane — no roads connect it to the rest of the state."
+    },
+    {
+      "id": "cap-americas-001",
+      "tags": [
+        "capitals",
+        "capitals-level-1",
+        "latin-america"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Brazil?",
+      "choices": [
+        "Rio de Janeiro",
+        "Sao Paulo",
+        "Brasilia",
+        "Salvador"
+      ],
+      "answer": 2,
+      "explanation": "Brasilia was purpose-built in the 1960s to move the capital inland from Rio de Janeiro."
+    },
+    {
+      "id": "cap-americas-002",
+      "tags": [
+        "capitals",
+        "capitals-level-1",
+        "us-canada"
+      ],
+      "difficulty": 1,
+      "q": "Ottawa is the capital of which country?",
+      "choices": [
+        "United States",
+        "Australia",
+        "Canada",
+        "United Kingdom"
+      ],
+      "answer": 2,
+      "explanation": "Ottawa sits on the Ontario-Quebec border and was chosen as capital by Queen Victoria in 1857."
+    },
+    {
+      "id": "cap-americas-003",
+      "tags": [
+        "capitals",
+        "capitals-level-1",
+        "us-canada"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of the United States?",
+      "choices": [
+        "New York City",
+        "Washington, DC",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "answer": 1,
+      "explanation": "Washington, DC is not part of any state — it is its own federal district."
+    },
+    {
+      "id": "cap-americas-004",
+      "tags": [
+        "capitals",
+        "capitals-level-2",
+        "latin-america"
+      ],
+      "difficulty": 1,
+      "q": "Buenos Aires is the capital of which country?",
+      "choices": [
+        "Chile",
+        "Uruguay",
+        "Argentina",
+        "Brazil"
+      ],
+      "answer": 2,
+      "explanation": "Buenos Aires means 'good airs' in Spanish and is one of the largest cities in South America."
+    },
+    {
+      "id": "cap-americas-005",
+      "tags": [
+        "capitals",
+        "capitals-level-2",
+        "latin-america"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Cuba?",
+      "choices": [
+        "Havana",
+        "Santiago",
+        "Kingston",
+        "Santo Domingo"
+      ],
+      "answer": 0,
+      "explanation": "Havana is famous for its colorful vintage cars and Spanish colonial architecture."
+    },
+    {
+      "id": "cap-americas-006",
+      "tags": [
+        "capitals",
+        "capitals-level-2",
+        "latin-america"
+      ],
+      "difficulty": 1,
+      "q": "Lima is the capital of which South American country?",
+      "choices": [
+        "Ecuador",
+        "Colombia",
+        "Peru",
+        "Bolivia"
+      ],
+      "answer": 2,
+      "explanation": "Lima was founded by Spanish conquistador Francisco Pizarro in 1535."
+    },
+    {
+      "id": "cap-americas-007",
+      "tags": [
+        "capitals",
+        "capitals-level-3",
+        "latin-america"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Chile?",
+      "choices": [
+        "Santiago",
+        "Lima",
+        "Quito",
+        "Montevideo"
+      ],
+      "answer": 0,
+      "explanation": "Santiago is surrounded by the Andes mountains and the Chilean Coastal Range."
+    },
+    {
+      "id": "cap-americas-008",
+      "tags": [
+        "capitals",
+        "capitals-level-3",
+        "latin-america"
+      ],
+      "difficulty": 1,
+      "q": "Quito is the capital of which country?",
+      "choices": [
+        "Colombia",
+        "Peru",
+        "Venezuela",
+        "Ecuador"
+      ],
+      "answer": 3,
+      "explanation": "Quito sits nearly on the equator at over 9,000 feet above sea level."
+    },
+    {
+      "id": "cap-americas-009",
+      "tags": [
+        "capitals",
+        "capitals-level-3",
+        "latin-america"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Venezuela?",
+      "choices": [
+        "Bogota",
+        "Caracas",
+        "Quito",
+        "Lima"
+      ],
+      "answer": 1,
+      "explanation": "Caracas sits in a valley in the northern coastal mountains of Venezuela."
+    },
+    {
+      "id": "cap-americas-010",
+      "tags": [
+        "capitals",
+        "capitals-level-4",
+        "latin-america"
+      ],
+      "difficulty": 2,
+      "q": "Kingston is the capital of which Caribbean island country?",
+      "choices": [
+        "Cuba",
+        "Bahamas",
+        "Jamaica",
+        "Trinidad and Tobago"
+      ],
+      "answer": 2,
+      "explanation": "Kingston is one of the largest English-speaking cities south of the United States."
+    },
+    {
+      "id": "cap-americas-011",
+      "tags": [
+        "capitals",
+        "capitals-level-4",
+        "latin-america"
+      ],
+      "difficulty": 2,
+      "q": "What is the capital of Costa Rica?",
+      "choices": [
+        "Managua",
+        "San Jose",
+        "Panama City",
+        "Tegucigalpa"
+      ],
+      "answer": 1,
+      "explanation": "San Jose sits in the Central Valley at about 3,800 feet elevation."
+    },
+    {
+      "id": "cap-americas-012",
+      "tags": [
+        "capitals",
+        "capitals-level-4",
+        "latin-america"
+      ],
+      "difficulty": 2,
+      "q": "Santo Domingo is the capital of which country?",
+      "choices": [
+        "Cuba",
+        "Puerto Rico",
+        "Dominican Republic",
+        "Haiti"
+      ],
+      "answer": 2,
+      "explanation": "Santo Domingo is the oldest continuously inhabited European settlement in the Americas."
+    },
+    {
+      "id": "cap-americas-013",
+      "tags": [
+        "capitals",
+        "capitals-level-4",
+        "latin-america"
+      ],
+      "difficulty": 2,
+      "q": "What is the capital of Uruguay?",
+      "choices": [
+        "Asuncion",
+        "Buenos Aires",
+        "Montevideo",
+        "Santiago"
+      ],
+      "answer": 2,
+      "explanation": "Montevideo is home to nearly half of Uruguay's population."
+    },
+    {
+      "id": "cap-americas-014",
+      "tags": [
+        "capitals",
+        "capitals-level-5",
+        "latin-america"
+      ],
+      "difficulty": 2,
+      "q": "Nassau is the capital of which island country?",
+      "choices": [
+        "Jamaica",
+        "Bahamas",
+        "Barbados",
+        "Trinidad and Tobago"
+      ],
+      "answer": 1,
+      "explanation": "The Bahamas has over 700 islands, but most people live on New Providence Island near Nassau."
+    },
+    {
+      "id": "cap-asia-001",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Japan?",
+      "choices": [
+        "Osaka",
+        "Tokyo",
+        "Kyoto",
+        "Hiroshima"
+      ],
+      "answer": 1,
+      "explanation": "Tokyo is the most populous metropolitan area in the world with over 37 million people."
+    },
+    {
+      "id": "cap-asia-002",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "Beijing is the capital of which country?",
+      "choices": [
+        "Japan",
+        "South Korea",
+        "China",
+        "Vietnam"
+      ],
+      "answer": 2,
+      "explanation": "Beijing means 'Northern Capital' in Chinese and has been China's capital for most of the last 800 years."
+    },
+    {
+      "id": "cap-asia-003",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of India?",
+      "choices": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "answer": 2,
+      "explanation": "New Delhi was designed by British architects and became the capital in 1931."
+    },
+    {
+      "id": "cap-asia-004",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "Bangkok is the capital of which country?",
+      "choices": [
+        "Vietnam",
+        "Thailand",
+        "Malaysia",
+        "Cambodia"
+      ],
+      "answer": 1,
+      "explanation": "Bangkok's full ceremonial name in Thai is over 160 characters long — the longest city name in the world."
+    },
+    {
+      "id": "cap-asia-005",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of the Philippines?",
+      "choices": [
+        "Manila",
+        "Jakarta",
+        "Bangkok",
+        "Kuala Lumpur"
+      ],
+      "answer": 0,
+      "explanation": "Manila is one of the most densely populated cities in the world."
+    },
+    {
+      "id": "cap-asia-006",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "Tehran is the capital of which country?",
+      "choices": [
+        "Iraq",
+        "Iran",
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "answer": 1,
+      "explanation": "Tehran is home to about 9 million people and sits at the foot of the Alborz Mountains."
+    },
+    {
+      "id": "cap-asia-007",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Indonesia?",
+      "choices": [
+        "Jakarta",
+        "Manila",
+        "Kuala Lumpur",
+        "Bangkok"
+      ],
+      "answer": 0,
+      "explanation": "Indonesia is building a brand-new capital called Nusantara on the island of Borneo to replace Jakarta."
+    },
+    {
+      "id": "cap-asia-008",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "Riyadh is the capital of which country?",
+      "choices": [
+        "Iraq",
+        "Qatar",
+        "Saudi Arabia",
+        "United Arab Emirates"
+      ],
+      "answer": 2,
+      "explanation": "Riyadh means 'gardens' in Arabic and is one of the hottest capital cities in the world."
+    },
+    {
+      "id": "cap-asia-009",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Vietnam?",
+      "choices": [
+        "Ho Chi Minh City",
+        "Hanoi",
+        "Bangkok",
+        "Phnom Penh"
+      ],
+      "answer": 1,
+      "explanation": "Hanoi has been Vietnam's capital for over 1,000 years."
+    },
+    {
+      "id": "cap-asia-010",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-3"
+      ],
+      "difficulty": 1,
+      "q": "Baghdad is the capital of which country?",
+      "choices": [
+        "Syria",
+        "Iran",
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "answer": 2,
+      "explanation": "Baghdad was once the largest city in the world during the Islamic Golden Age."
+    },
+    {
+      "id": "cap-asia-011",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-3"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Afghanistan?",
+      "choices": [
+        "Kabul",
+        "Islamabad",
+        "Tehran",
+        "Tashkent"
+      ],
+      "answer": 0,
+      "explanation": "Kabul sits at about 5,900 feet elevation and is one of the highest capitals in Asia."
+    },
+    {
+      "id": "cap-asia-012",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-3"
+      ],
+      "difficulty": 1,
+      "q": "Damascus is the capital of which country?",
+      "choices": [
+        "Lebanon",
+        "Jordan",
+        "Syria",
+        "Iraq"
+      ],
+      "answer": 2,
+      "explanation": "Damascus is often considered the oldest continuously inhabited city in the world."
+    },
+    {
+      "id": "cap-asia-013",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-4"
+      ],
+      "difficulty": 2,
+      "q": "What is the capital of Cambodia?",
+      "choices": [
+        "Hanoi",
+        "Vientiane",
+        "Phnom Penh",
+        "Bangkok"
+      ],
+      "answer": 2,
+      "explanation": "Phnom Penh sits where the Mekong and Tonle Sap rivers meet."
+    },
+    {
+      "id": "cap-asia-014",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-4"
+      ],
+      "difficulty": 2,
+      "q": "Kathmandu is the capital of which country?",
+      "choices": [
+        "Bhutan",
+        "Nepal",
+        "Tibet",
+        "Bangladesh"
+      ],
+      "answer": 1,
+      "explanation": "Kathmandu sits in a valley surrounded by the Himalayas at about 4,600 feet elevation."
+    },
+    {
+      "id": "cap-asia-015",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-4"
+      ],
+      "difficulty": 2,
+      "q": "What is the capital of Mongolia?",
+      "choices": [
+        "Astana",
+        "Bishkek",
+        "Ulaanbaatar",
+        "Tashkent"
+      ],
+      "answer": 2,
+      "explanation": "Ulaanbaatar is the coldest national capital in the world, with winter temperatures reaching -40 degrees."
+    },
+    {
+      "id": "cap-asia-016",
+      "tags": [
+        "capitals",
+        "asia",
+        "capitals-level-5"
+      ],
+      "difficulty": 2,
+      "q": "Yerevan is the capital of which country?",
+      "choices": [
+        "Georgia",
+        "Armenia",
+        "Azerbaijan",
+        "Turkey"
+      ],
+      "answer": 1,
+      "explanation": "Yerevan is one of the oldest continuously inhabited cities in the world, founded in 782 BC."
+    },
+    {
+      "id": "cap-europe-001",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of France?",
+      "choices": [
+        "Lyon",
+        "Paris",
+        "Marseille",
+        "Brussels"
+      ],
+      "answer": 1,
+      "explanation": "Paris is called the 'City of Light' and is home to the Eiffel Tower."
+    },
+    {
+      "id": "cap-europe-002",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "London is the capital of which country?",
+      "choices": [
+        "France",
+        "Germany",
+        "United Kingdom",
+        "Ireland"
+      ],
+      "answer": 2,
+      "explanation": "London has been an important city for nearly 2,000 years, since Roman times."
+    },
+    {
+      "id": "cap-europe-003",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Germany?",
+      "choices": [
+        "Munich",
+        "Berlin",
+        "Hamburg",
+        "Frankfurt"
+      ],
+      "answer": 1,
+      "explanation": "Berlin was divided into East and West from 1961 to 1989 by the Berlin Wall."
+    },
+    {
+      "id": "cap-europe-004",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "Rome is the capital of which country?",
+      "choices": [
+        "Spain",
+        "Greece",
+        "Italy",
+        "Portugal"
+      ],
+      "answer": 2,
+      "explanation": "Rome is nicknamed the 'Eternal City' and contains Vatican City within its borders."
+    },
+    {
+      "id": "cap-europe-005",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Spain?",
+      "choices": [
+        "Barcelona",
+        "Madrid",
+        "Lisbon",
+        "Seville"
+      ],
+      "answer": 1,
+      "explanation": "Madrid sits right in the center of Spain and is one of the highest capitals in Europe."
+    },
+    {
+      "id": "cap-europe-006",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-1"
+      ],
+      "difficulty": 1,
+      "q": "Athens is the capital of which country?",
+      "choices": [
+        "Italy",
+        "Turkey",
+        "Greece",
+        "Cyprus"
+      ],
+      "answer": 2,
+      "explanation": "Athens is considered the birthplace of democracy and the Olympic Games."
+    },
+    {
+      "id": "cap-europe-007",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Austria?",
+      "choices": [
+        "Vienna",
+        "Zurich",
+        "Munich",
+        "Prague"
+      ],
+      "answer": 0,
+      "explanation": "Vienna was the center of the Habsburg Empire and is famous for classical music."
+    },
+    {
+      "id": "cap-europe-008",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "Copenhagen is the capital of which country?",
+      "choices": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
+      "answer": 2,
+      "explanation": "Copenhagen is home to Tivoli Gardens, one of the oldest amusement parks in the world."
+    },
+    {
+      "id": "cap-europe-009",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Poland?",
+      "choices": [
+        "Krakow",
+        "Warsaw",
+        "Prague",
+        "Budapest"
+      ],
+      "answer": 1,
+      "explanation": "Warsaw was almost completely destroyed in World War II and was rebuilt by its citizens."
+    },
+    {
+      "id": "cap-europe-010",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "Dublin is the capital of which country?",
+      "choices": [
+        "Scotland",
+        "Wales",
+        "Ireland",
+        "Northern Ireland"
+      ],
+      "answer": 2,
+      "explanation": "Dublin's name comes from the Irish 'Dubh Linn,' meaning 'black pool.'"
+    },
+    {
+      "id": "cap-europe-011",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Sweden?",
+      "choices": [
+        "Oslo",
+        "Helsinki",
+        "Stockholm",
+        "Copenhagen"
+      ],
+      "answer": 2,
+      "explanation": "Stockholm is built on 14 islands connected by bridges."
+    },
+    {
+      "id": "cap-europe-012",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-3"
+      ],
+      "difficulty": 1,
+      "q": "Zagreb is the capital of which country?",
+      "choices": [
+        "Serbia",
+        "Slovenia",
+        "Croatia",
+        "Bosnia"
+      ],
+      "answer": 2,
+      "explanation": "Zagreb is located along the Sava River in the northwest of Croatia."
+    },
+    {
+      "id": "cap-europe-013",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-3"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Serbia?",
+      "choices": [
+        "Belgrade",
+        "Zagreb",
+        "Sarajevo",
+        "Sofia"
+      ],
+      "answer": 0,
+      "explanation": "Belgrade sits where the Danube and Sava rivers meet and is one of Europe's oldest cities."
+    },
+    {
+      "id": "cap-europe-014",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-4"
+      ],
+      "difficulty": 2,
+      "q": "Tallinn is the capital of which country?",
+      "choices": [
+        "Latvia",
+        "Lithuania",
+        "Estonia",
+        "Finland"
+      ],
+      "answer": 2,
+      "explanation": "Tallinn has one of the best-preserved medieval old towns in Europe."
+    },
+    {
+      "id": "cap-europe-015",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-4"
+      ],
+      "difficulty": 2,
+      "q": "What is the capital of Latvia?",
+      "choices": [
+        "Vilnius",
+        "Tallinn",
+        "Riga",
+        "Helsinki"
+      ],
+      "answer": 2,
+      "explanation": "Riga is the largest city in the Baltic states and is famous for its Art Nouveau architecture."
+    },
+    {
+      "id": "cap-europe-016",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-4"
+      ],
+      "difficulty": 2,
+      "q": "Sofia is the capital of which country?",
+      "choices": [
+        "Romania",
+        "Bulgaria",
+        "Greece",
+        "Serbia"
+      ],
+      "answer": 1,
+      "explanation": "Sofia has been inhabited for at least 7,000 years, making it one of Europe's oldest cities."
+    },
+    {
+      "id": "cap-europe-017",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-4"
+      ],
+      "difficulty": 2,
+      "q": "What is the capital of Lithuania?",
+      "choices": [
+        "Riga",
+        "Vilnius",
+        "Tallinn",
+        "Minsk"
+      ],
+      "answer": 1,
+      "explanation": "Vilnius has a beautiful baroque old town that is a UNESCO World Heritage Site."
+    },
+    {
+      "id": "cap-europe-018",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-5"
+      ],
+      "difficulty": 2,
+      "q": "Tirana is the capital of which country?",
+      "choices": [
+        "Montenegro",
+        "Albania",
+        "North Macedonia",
+        "Kosovo"
+      ],
+      "answer": 1,
+      "explanation": "Tirana became Albania's capital in 1920 and is known for its colorful painted buildings."
+    },
+    {
+      "id": "cap-europe-019",
+      "tags": [
+        "capitals",
+        "europe",
+        "capitals-level-5"
+      ],
+      "difficulty": 2,
+      "q": "What is the capital of Moldova?",
+      "choices": [
+        "Bucharest",
+        "Chisinau",
+        "Kyiv",
+        "Odessa"
+      ],
+      "answer": 1,
+      "explanation": "Chisinau is pronounced 'kee-shee-NOW' and is Moldova's largest city by far."
+    },
+    {
+      "id": "cap-africa-001",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Egypt?",
+      "choices": [
+        "Alexandria",
+        "Cairo",
+        "Luxor",
+        "Giza"
+      ],
+      "answer": 1,
+      "explanation": "Cairo is the largest city in Africa and the Arab world with over 20 million people."
+    },
+    {
+      "id": "cap-africa-002",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "Nairobi is the capital of which country?",
+      "choices": [
+        "Tanzania",
+        "Uganda",
+        "Kenya",
+        "Ethiopia"
+      ],
+      "answer": 2,
+      "explanation": "Nairobi National Park is the only national park in the world located inside a capital city."
+    },
+    {
+      "id": "cap-africa-003",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-3"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Nigeria?",
+      "choices": [
+        "Lagos",
+        "Accra",
+        "Abuja",
+        "Dakar"
+      ],
+      "answer": 2,
+      "explanation": "Nigeria moved its capital from Lagos to Abuja in 1991 because Abuja is more centrally located."
+    },
+    {
+      "id": "cap-africa-004",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-3"
+      ],
+      "difficulty": 1,
+      "q": "Accra is the capital of which West African country?",
+      "choices": [
+        "Nigeria",
+        "Ghana",
+        "Senegal",
+        "Ivory Coast"
+      ],
+      "answer": 1,
+      "explanation": "Ghana was the first sub-Saharan African country to gain independence from a colonial power in 1957."
+    },
+    {
+      "id": "cap-africa-005",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-3"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Morocco?",
+      "choices": [
+        "Casablanca",
+        "Marrakech",
+        "Rabat",
+        "Fez"
+      ],
+      "answer": 2,
+      "explanation": "Many people think Casablanca or Marrakech is the capital, but it is actually Rabat."
+    },
+    {
+      "id": "cap-africa-006",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-3"
+      ],
+      "difficulty": 1,
+      "q": "Algiers is the capital of which country?",
+      "choices": [
+        "Tunisia",
+        "Morocco",
+        "Algeria",
+        "Libya"
+      ],
+      "answer": 2,
+      "explanation": "Algeria is the largest country in Africa by area."
+    },
+    {
+      "id": "cap-africa-007",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-4"
+      ],
+      "difficulty": 2,
+      "q": "What is the capital of the Democratic Republic of the Congo?",
+      "choices": [
+        "Brazzaville",
+        "Kinshasa",
+        "Nairobi",
+        "Kampala"
+      ],
+      "answer": 1,
+      "explanation": "Kinshasa and Brazzaville face each other across the Congo River — the two closest capitals in the world."
+    },
+    {
+      "id": "cap-africa-008",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-4"
+      ],
+      "difficulty": 2,
+      "q": "Dakar is the capital of which West African country?",
+      "choices": [
+        "Mali",
+        "Senegal",
+        "Guinea",
+        "Gambia"
+      ],
+      "answer": 1,
+      "explanation": "Dakar is the westernmost city on the African mainland."
+    },
+    {
+      "id": "cap-africa-009",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-4"
+      ],
+      "difficulty": 2,
+      "q": "What is the capital of Zimbabwe?",
+      "choices": [
+        "Lusaka",
+        "Maputo",
+        "Harare",
+        "Lilongwe"
+      ],
+      "answer": 2,
+      "explanation": "Harare was formerly called Salisbury during the colonial era."
+    },
+    {
+      "id": "cap-africa-010",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-5"
+      ],
+      "difficulty": 2,
+      "q": "Kigali is the capital of which East African country?",
+      "choices": [
+        "Burundi",
+        "Uganda",
+        "Rwanda",
+        "Kenya"
+      ],
+      "answer": 2,
+      "explanation": "Kigali is known as one of the cleanest cities in Africa."
+    },
+    {
+      "id": "cap-africa-011",
+      "tags": [
+        "capitals",
+        "africa",
+        "capitals-level-5"
+      ],
+      "difficulty": 2,
+      "q": "What is the capital of Tanzania?",
+      "choices": [
+        "Dar es Salaam",
+        "Nairobi",
+        "Dodoma",
+        "Mombasa"
+      ],
+      "answer": 2,
+      "explanation": "Most people think Dar es Salaam is the capital because it is much larger, but Dodoma is the official capital."
+    },
+    {
+      "id": "cap-oceania-001",
+      "tags": [
+        "capitals",
+        "oceania",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "What is the capital of Australia?",
+      "choices": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "answer": 2,
+      "explanation": "Canberra was purpose-built as the capital because Sydney and Melbourne could not agree on which should be capital."
+    },
+    {
+      "id": "cap-oceania-002",
+      "tags": [
+        "capitals",
+        "oceania",
+        "capitals-level-2"
+      ],
+      "difficulty": 1,
+      "q": "Wellington is the capital of which country?",
+      "choices": [
+        "Australia",
+        "New Zealand",
+        "Fiji",
+        "Papua New Guinea"
+      ],
+      "answer": 1,
+      "explanation": "Wellington is the southernmost capital city of any sovereign state in the world."
+    },
+    {
+      "id": "terms-red-001",
+      "tags": [
+        "us-canada",
+        "rivers",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "The Mississippi River empties into which body of water?",
+      "choices": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Gulf of Mexico",
+        "Caribbean Sea"
+      ],
+      "answer": 2,
+      "explanation": "The Mississippi flows south through the central US and empties into the Gulf of Mexico near New Orleans."
+    },
+    {
+      "id": "terms-red-002",
+      "tags": [
+        "us-canada",
+        "physical",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "The state of Florida is a peninsula surrounded mostly by which body of water?",
+      "choices": [
+        "Pacific Ocean",
+        "Atlantic Ocean and Gulf of Mexico",
+        "Caribbean Sea",
+        "Lake Michigan"
+      ],
+      "answer": 1,
+      "explanation": "Florida is bordered by the Atlantic Ocean on the east and the Gulf of Mexico on the west."
+    },
+    {
+      "id": "terms-red-003",
+      "tags": [
+        "asia",
+        "culture",
+        "red-set"
+      ],
+      "difficulty": 2,
+      "q": "The Bamiyan Valley, where giant Buddha statues once stood carved into cliffs, is in which country?",
+      "choices": [
+        "India",
+        "Nepal",
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "answer": 2,
+      "explanation": "The Bamiyan Buddhas were destroyed in 2001 but had stood for over 1,500 years."
+    },
+    {
+      "id": "terms-red-004",
+      "tags": [
+        "us-canada",
+        "capitals",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "Washington, D.C. is the capital of the United States. What does 'D.C.' stand for?",
+      "choices": [
+        "Democratic City",
+        "District of Columbia",
+        "Department of Congress",
+        "Delaware County"
+      ],
+      "answer": 1,
+      "explanation": "D.C. stands for District of Columbia, named after Christopher Columbus."
+    },
+    {
+      "id": "terms-red-005",
+      "tags": [
+        "asia",
+        "rivers",
+        "red-set"
+      ],
+      "difficulty": 2,
+      "q": "The Grand Canal, the world's longest artificial waterway, is located in which country?",
+      "choices": [
+        "Italy",
+        "Egypt",
+        "China",
+        "France"
+      ],
+      "answer": 2,
+      "explanation": "China's Grand Canal stretches over 1,100 miles and was begun over 2,000 years ago."
+    },
+    {
+      "id": "terms-red-006",
+      "tags": [
+        "europe",
+        "capitals",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "London is the capital of the United Kingdom. Which famous river flows through it?",
+      "choices": [
+        "Seine",
+        "Rhine",
+        "Danube",
+        "Thames"
+      ],
+      "answer": 3,
+      "explanation": "The River Thames is about 215 miles long and has been important since Roman times."
+    },
+    {
+      "id": "terms-red-007",
+      "tags": [
+        "us-canada",
+        "physical",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "Louisiana is a US state known for its wetlands and swamps. Which city is its most famous?",
+      "choices": [
+        "Baton Rouge",
+        "New Orleans",
+        "Shreveport",
+        "Lafayette"
+      ],
+      "answer": 1,
+      "explanation": "New Orleans is famous for jazz music, Mardi Gras, and Cajun food."
+    },
+    {
+      "id": "terms-red-008",
+      "tags": [
+        "europe",
+        "countries",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "Greece is a European country famous for ancient ruins. What is its capital?",
+      "choices": [
+        "Rome",
+        "Istanbul",
+        "Athens",
+        "Sparta"
+      ],
+      "answer": 2,
+      "explanation": "Athens is one of the oldest cities in the world and is called the birthplace of democracy."
+    },
+    {
+      "id": "terms-red-009",
+      "tags": [
+        "asia",
+        "countries",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "Baghdad is the capital of which Middle Eastern country?",
+      "choices": [
+        "Iran",
+        "Iraq",
+        "Syria",
+        "Kuwait"
+      ],
+      "answer": 1,
+      "explanation": "Iraq is located between the Tigris and Euphrates rivers in a region once called Mesopotamia."
+    },
+    {
+      "id": "terms-red-010",
+      "tags": [
+        "us-canada",
+        "cities",
+        "culture",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "Hershey, Pennsylvania is famous for producing which sweet treat?",
+      "choices": [
+        "Ice cream",
+        "Chocolate",
+        "Cookies",
+        "Candy canes"
+      ],
+      "answer": 1,
+      "explanation": "Hershey is called 'The Sweetest Place on Earth' and even has chocolate-themed street lamps."
+    },
+    {
+      "id": "terms-red-011",
+      "tags": [
+        "asia",
+        "cities",
+        "red-set"
+      ],
+      "difficulty": 2,
+      "q": "The Bund is a famous waterfront area in which Chinese city?",
+      "choices": [
+        "Beijing",
+        "Hong Kong",
+        "Shanghai",
+        "Guangzhou"
+      ],
+      "answer": 2,
+      "explanation": "The Bund features historic European-style buildings along the Huangpu River."
+    },
+    {
+      "id": "terms-red-012",
+      "tags": [
+        "us-canada",
+        "physical",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "Michigan is a US state shaped by which geographic feature?",
+      "choices": [
+        "Great Lakes",
+        "Rocky Mountains",
+        "Mississippi River",
+        "Appalachian Trail"
+      ],
+      "answer": 0,
+      "explanation": "Michigan is split into two peninsulas and touches four of the five Great Lakes."
+    },
+    {
+      "id": "terms-red-013",
+      "tags": [
+        "oceania",
+        "culture",
+        "red-set"
+      ],
+      "difficulty": 2,
+      "q": "The Treaty of Waitangi, signed in 1840, is the founding document of which country?",
+      "choices": [
+        "Australia",
+        "Fiji",
+        "New Zealand",
+        "Samoa"
+      ],
+      "answer": 2,
+      "explanation": "The treaty was signed between the British Crown and Maori chiefs."
+    },
+    {
+      "id": "terms-red-014",
+      "tags": [
+        "europe",
+        "cities",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "Naples is a large city in the southern part of which European country?",
+      "choices": [
+        "Spain",
+        "Greece",
+        "Italy",
+        "France"
+      ],
+      "answer": 2,
+      "explanation": "Naples sits near Mount Vesuvius and is famous for being the birthplace of pizza."
+    },
+    {
+      "id": "terms-red-015",
+      "tags": [
+        "europe",
+        "culture",
+        "cities",
+        "red-set"
+      ],
+      "difficulty": 2,
+      "q": "Gouda, a city in the Netherlands, is world-famous for producing which food?",
+      "choices": [
+        "Chocolate",
+        "Cheese",
+        "Waffles",
+        "Bread"
+      ],
+      "answer": 1,
+      "explanation": "Gouda cheese has been made in the Netherlands since the Middle Ages."
+    },
+    {
+      "id": "terms-red-016",
+      "tags": [
+        "physical",
+        "red-set"
+      ],
+      "difficulty": 2,
+      "q": "The North Pole is located in the middle of which ocean?",
+      "choices": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean",
+        "Indian Ocean"
+      ],
+      "answer": 2,
+      "explanation": "Unlike the South Pole, which sits on land, the North Pole sits on floating sea ice."
+    },
+    {
+      "id": "terms-red-017",
+      "tags": [
+        "latin-america",
+        "culture",
+        "red-set"
+      ],
+      "difficulty": 2,
+      "q": "A 'favela' is a word for a hillside neighborhood or slum found in which country?",
+      "choices": [
+        "Mexico",
+        "Argentina",
+        "Brazil",
+        "Colombia"
+      ],
+      "answer": 2,
+      "explanation": "Many favelas are built on steep hillsides in cities like Rio de Janeiro."
+    },
+    {
+      "id": "terms-red-018",
+      "tags": [
+        "africa",
+        "countries",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "Mount Kilimanjaro and the Serengeti plains are both found in which African country?",
+      "choices": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Ethiopia"
+      ],
+      "answer": 1,
+      "explanation": "Tanzania is also home to the island of Zanzibar."
+    },
+    {
+      "id": "terms-red-019",
+      "tags": [
+        "asia",
+        "physical",
+        "red-set"
+      ],
+      "difficulty": 2,
+      "q": "The Malay Peninsula is shared by Malaysia and which other country at its southern tip?",
+      "choices": [
+        "Indonesia",
+        "Thailand",
+        "Singapore",
+        "Vietnam"
+      ],
+      "answer": 2,
+      "explanation": "Singapore is a tiny city-state at the very end of the Malay Peninsula."
+    },
+    {
+      "id": "terms-red-020",
+      "tags": [
+        "us-canada",
+        "physical",
+        "red-set"
+      ],
+      "difficulty": 1,
+      "q": "The Gulf of Mexico borders Texas, Louisiana, Mississippi, Alabama, and which other US state?",
+      "choices": [
+        "Georgia",
+        "South Carolina",
+        "Florida",
+        "North Carolina"
+      ],
+      "answer": 2,
+      "explanation": "The Gulf of Mexico is also bordered by Mexico and Cuba."
+    },
+    {
+      "id": "terms-white-001",
+      "tags": [
+        "asia",
+        "physical",
+        "white-set"
+      ],
+      "difficulty": 1,
+      "q": "The Arabian Peninsula, the world's largest peninsula, is home to Saudi Arabia and which other oil-rich country?",
+      "choices": [
+        "Iran",
+        "Iraq",
+        "United Arab Emirates",
+        "Egypt"
+      ],
+      "answer": 2,
+      "explanation": "The Arabian Peninsula also includes Yemen, Oman, Qatar, Kuwait, and Bahrain."
+    },
+    {
+      "id": "terms-white-002",
+      "tags": [
+        "physical",
+        "mountains",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "The 'Seven Summits' are the highest mountains on each continent. Which peak is the highest of all?",
+      "choices": [
+        "Kilimanjaro",
+        "Denali",
+        "Mount Everest",
+        "Aconcagua"
+      ],
+      "answer": 2,
+      "explanation": "Mount Everest in Asia is the tallest at about 29,032 feet."
+    },
+    {
+      "id": "terms-white-003",
+      "tags": [
+        "us-canada",
+        "physical",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "The Bermuda Triangle is a region in which ocean where ships and planes have mysteriously disappeared?",
+      "choices": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": 2,
+      "explanation": "The Bermuda Triangle lies between Miami, Bermuda, and Puerto Rico."
+    },
+    {
+      "id": "terms-white-004",
+      "tags": [
+        "asia",
+        "countries",
+        "white-set"
+      ],
+      "difficulty": 3,
+      "q": "The South Caucasus region includes Georgia, Armenia, and which third country?",
+      "choices": [
+        "Turkey",
+        "Azerbaijan",
+        "Iran",
+        "Russia"
+      ],
+      "answer": 1,
+      "explanation": "These three countries sit between the Black Sea and the Caspian Sea."
+    },
+    {
+      "id": "terms-white-005",
+      "tags": [
+        "africa",
+        "physical",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "Port Said is an Egyptian city located at the northern entrance of which famous waterway?",
+      "choices": [
+        "Panama Canal",
+        "Suez Canal",
+        "Grand Canal",
+        "Erie Canal"
+      ],
+      "answer": 1,
+      "explanation": "The Suez Canal connects the Mediterranean Sea to the Red Sea."
+    },
+    {
+      "id": "terms-white-006",
+      "tags": [
+        "us-canada",
+        "countries",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "Which of these is one of Canada's Maritime provinces, located on the Atlantic coast?",
+      "choices": [
+        "Ontario",
+        "Alberta",
+        "Nova Scotia",
+        "British Columbia"
+      ],
+      "answer": 2,
+      "explanation": "The Maritime provinces are Nova Scotia, New Brunswick, and Prince Edward Island."
+    },
+    {
+      "id": "terms-white-007",
+      "tags": [
+        "europe",
+        "countries",
+        "white-set"
+      ],
+      "difficulty": 1,
+      "q": "The term 'Benelux' refers to Belgium, the Netherlands, and which third country?",
+      "choices": [
+        "France",
+        "Luxembourg",
+        "Germany",
+        "Switzerland"
+      ],
+      "answer": 1,
+      "explanation": "Benelux combines the first letters of Belgium, Netherlands, and Luxembourg."
+    },
+    {
+      "id": "terms-white-008",
+      "tags": [
+        "asia",
+        "culture",
+        "mountains",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "Sherpas are a people famous for guiding climbers on Mount Everest. They live mainly in which country?",
+      "choices": [
+        "India",
+        "Tibet",
+        "Nepal",
+        "Bhutan"
+      ],
+      "answer": 2,
+      "explanation": "Tenzing Norgay, a Sherpa, was one of the first two people to summit Everest in 1953."
+    },
+    {
+      "id": "terms-white-009",
+      "tags": [
+        "latin-america",
+        "physical",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "The Atacama Desert, one of the driest places on Earth, is in which South American country?",
+      "choices": [
+        "Peru",
+        "Argentina",
+        "Chile",
+        "Bolivia"
+      ],
+      "answer": 2,
+      "explanation": "Parts of the Atacama have not received rain in recorded history."
+    },
+    {
+      "id": "terms-white-010",
+      "tags": [
+        "europe",
+        "countries",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "The Baltic countries are Estonia, Latvia, and which third nation?",
+      "choices": [
+        "Finland",
+        "Poland",
+        "Lithuania",
+        "Sweden"
+      ],
+      "answer": 2,
+      "explanation": "All three Baltic states border the Baltic Sea and joined the EU in 2004."
+    },
+    {
+      "id": "terms-white-011",
+      "tags": [
+        "physical",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "The Gulf Stream is a warm ocean current that flows from the Gulf of Mexico toward which continent?",
+      "choices": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "answer": 2,
+      "explanation": "The Gulf Stream helps keep Western Europe warmer than it would otherwise be."
+    },
+    {
+      "id": "terms-white-012",
+      "tags": [
+        "europe",
+        "culture",
+        "white-set"
+      ],
+      "difficulty": 1,
+      "q": "The Acropolis, an ancient hilltop citadel with the Parthenon temple, is in which city?",
+      "choices": [
+        "Rome",
+        "Athens",
+        "Cairo",
+        "Istanbul"
+      ],
+      "answer": 1,
+      "explanation": "The Parthenon was built around 447 BC in honor of the goddess Athena."
+    },
+    {
+      "id": "terms-white-013",
+      "tags": [
+        "latin-america",
+        "physical",
+        "white-set"
+      ],
+      "difficulty": 3,
+      "q": "The Mosquito Coast is a tropical region along the Caribbean coast of Nicaragua and which other country?",
+      "choices": [
+        "Costa Rica",
+        "Honduras",
+        "Panama",
+        "Guatemala"
+      ],
+      "answer": 1,
+      "explanation": "The name comes from the indigenous Miskito people, not from the insect."
+    },
+    {
+      "id": "terms-white-014",
+      "tags": [
+        "europe",
+        "physical",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "The Bay of Biscay lies between the northern coast of Spain and the western coast of which country?",
+      "choices": [
+        "Portugal",
+        "France",
+        "Italy",
+        "United Kingdom"
+      ],
+      "answer": 1,
+      "explanation": "The Bay of Biscay is known for its rough seas and strong storms."
+    },
+    {
+      "id": "terms-white-015",
+      "tags": [
+        "asia",
+        "physical",
+        "culture",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "The Fertile Crescent, where farming first began, lies between the Tigris and Euphrates rivers in modern-day Iraq and which region?",
+      "choices": [
+        "East Asia",
+        "the Middle East and eastern Mediterranean",
+        "Southern Africa",
+        "Central Asia"
+      ],
+      "answer": 1,
+      "explanation": "The Fertile Crescent is often called the 'Cradle of Civilization.'"
+    },
+    {
+      "id": "terms-white-016",
+      "tags": [
+        "physical",
+        "white-set"
+      ],
+      "difficulty": 1,
+      "q": "The Tropics are the warm zone of Earth between which two imaginary lines?",
+      "choices": [
+        "Equator and Arctic Circle",
+        "Tropic of Cancer and Tropic of Capricorn",
+        "North Pole and South Pole",
+        "Prime Meridian and Date Line"
+      ],
+      "answer": 1,
+      "explanation": "The tropics receive the most direct sunlight on Earth."
+    },
+    {
+      "id": "terms-white-017",
+      "tags": [
+        "africa",
+        "mountains",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "After Kilimanjaro, what is the second-highest mountain in Africa?",
+      "choices": [
+        "Mount Kenya",
+        "Mount Elgon",
+        "Mount Stanley",
+        "Atlas Peak"
+      ],
+      "answer": 0,
+      "explanation": "Mount Kenya stands at about 17,057 feet and is located in Kenya."
+    },
+    {
+      "id": "terms-white-018",
+      "tags": [
+        "us-canada",
+        "cities",
+        "white-set"
+      ],
+      "difficulty": 2,
+      "q": "Which is the busiest airport in the United States by number of passengers?",
+      "choices": [
+        "Los Angeles (LAX)",
+        "Chicago O'Hare (ORD)",
+        "Hartsfield-Jackson Atlanta (ATL)",
+        "Dallas/Fort Worth (DFW)"
+      ],
+      "answer": 2,
+      "explanation": "Atlanta's airport has been the world's busiest for many years."
+    },
+    {
+      "id": "terms-gold-001",
+      "tags": [
+        "europe",
+        "culture",
+        "countries",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "Flanders is the Dutch-speaking northern region of which European country?",
+      "choices": [
+        "Netherlands",
+        "Belgium",
+        "Germany",
+        "France"
+      ],
+      "answer": 1,
+      "explanation": "Belgium is divided between Dutch-speaking Flanders and French-speaking Wallonia."
+    },
+    {
+      "id": "terms-gold-002",
+      "tags": [
+        "asia",
+        "rivers",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "The Han River flows through Seoul, the capital of which country?",
+      "choices": [
+        "Japan",
+        "North Korea",
+        "South Korea",
+        "China"
+      ],
+      "answer": 2,
+      "explanation": "The Han River divides Seoul into northern and southern halves."
+    },
+    {
+      "id": "terms-gold-003",
+      "tags": [
+        "europe",
+        "rivers",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "The Rhone River flows through southeastern France and empties into which sea?",
+      "choices": [
+        "North Sea",
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Baltic Sea"
+      ],
+      "answer": 2,
+      "explanation": "The Rhone begins in Switzerland and flows through the French city of Lyon."
+    },
+    {
+      "id": "terms-gold-004",
+      "tags": [
+        "us-canada",
+        "cities",
+        "physical",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "Yuma, Arizona holds the record in the US for the most what per year?",
+      "choices": [
+        "Rainfall",
+        "Sunshine",
+        "Snowfall",
+        "Tornadoes"
+      ],
+      "answer": 1,
+      "explanation": "Yuma averages about 90% of possible sunshine hours, making it the sunniest city in the US."
+    },
+    {
+      "id": "terms-gold-005",
+      "tags": [
+        "europe",
+        "islands",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "Sicily, Sardinia, and Corsica are large islands in which sea?",
+      "choices": [
+        "Black Sea",
+        "North Sea",
+        "Mediterranean Sea",
+        "Baltic Sea"
+      ],
+      "answer": 2,
+      "explanation": "Sicily belongs to Italy and is the largest island in the Mediterranean."
+    },
+    {
+      "id": "terms-gold-006",
+      "tags": [
+        "africa",
+        "culture",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "The Great Pyramid and the Sphinx are famous ancient landmarks near Cairo in which country?",
+      "choices": [
+        "Sudan",
+        "Egypt",
+        "Libya",
+        "Morocco"
+      ],
+      "answer": 1,
+      "explanation": "The Great Pyramid of Giza was built about 4,500 years ago."
+    },
+    {
+      "id": "terms-gold-007",
+      "tags": [
+        "latin-america",
+        "physical",
+        "gold-set"
+      ],
+      "difficulty": 3,
+      "q": "The Humboldt Current is a cold ocean current that flows along the western coast of which continent?",
+      "choices": [
+        "Africa",
+        "North America",
+        "South America",
+        "Australia"
+      ],
+      "answer": 2,
+      "explanation": "The Humboldt Current flows north along Peru and Chile, bringing cold water from Antarctica."
+    },
+    {
+      "id": "terms-gold-008",
+      "tags": [
+        "africa",
+        "physical",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "The Gulf of Guinea is a large body of water off the coast of which part of Africa?",
+      "choices": [
+        "North Africa",
+        "East Africa",
+        "West Africa",
+        "Southern Africa"
+      ],
+      "answer": 2,
+      "explanation": "Countries bordering the Gulf of Guinea include Nigeria, Ghana, and Cameroon."
+    },
+    {
+      "id": "terms-gold-009",
+      "tags": [
+        "us-canada",
+        "rivers",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "The state of Missouri is named after which major US river?",
+      "choices": [
+        "Mississippi River",
+        "Missouri River",
+        "Ohio River",
+        "Arkansas River"
+      ],
+      "answer": 1,
+      "explanation": "The Missouri River is the longest river in the United States."
+    },
+    {
+      "id": "terms-gold-010",
+      "tags": [
+        "asia",
+        "islands",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "Honshu is the largest and most populated island of which country?",
+      "choices": [
+        "Philippines",
+        "Indonesia",
+        "Japan",
+        "South Korea"
+      ],
+      "answer": 2,
+      "explanation": "Tokyo, Osaka, and Kyoto are all located on Honshu."
+    },
+    {
+      "id": "terms-gold-011",
+      "tags": [
+        "physical",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "The Indian Ocean is bordered by Africa, Asia, and which other continent?",
+      "choices": [
+        "Europe",
+        "South America",
+        "Australia",
+        "North America"
+      ],
+      "answer": 2,
+      "explanation": "The Indian Ocean is the third-largest ocean in the world."
+    },
+    {
+      "id": "terms-gold-012",
+      "tags": [
+        "physical",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "The Arctic Ocean surrounds which pole?",
+      "choices": [
+        "South Pole",
+        "North Pole",
+        "Both poles",
+        "Neither pole"
+      ],
+      "answer": 1,
+      "explanation": "The Arctic Ocean is the smallest and shallowest of the world's five oceans."
+    },
+    {
+      "id": "terms-gold-013",
+      "tags": [
+        "europe",
+        "countries",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "The Balkans is a region of southeastern Europe. Which of these countries is NOT in the Balkans?",
+      "choices": [
+        "Serbia",
+        "Greece",
+        "Switzerland",
+        "Albania"
+      ],
+      "answer": 2,
+      "explanation": "Switzerland is in Central/Western Europe. Balkan countries include Serbia, Greece, Albania, and others."
+    },
+    {
+      "id": "terms-gold-014",
+      "tags": [
+        "europe",
+        "countries",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "Andorra is a tiny country located high in the Pyrenees mountains between France and which country?",
+      "choices": [
+        "Portugal",
+        "Italy",
+        "Spain",
+        "Switzerland"
+      ],
+      "answer": 2,
+      "explanation": "Andorra is one of the smallest countries in Europe and is famous for skiing."
+    },
+    {
+      "id": "terms-gold-015",
+      "tags": [
+        "us-canada",
+        "physical",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "Mount Rushmore, with four presidents' faces carved into rock, is located in which US state?",
+      "choices": [
+        "North Dakota",
+        "Montana",
+        "Wyoming",
+        "South Dakota"
+      ],
+      "answer": 3,
+      "explanation": "The carving features Washington, Jefferson, Roosevelt, and Lincoln."
+    },
+    {
+      "id": "terms-gold-016",
+      "tags": [
+        "europe",
+        "capitals",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "Dublin is the capital of which European island country?",
+      "choices": [
+        "Iceland",
+        "United Kingdom",
+        "Ireland",
+        "Scotland"
+      ],
+      "answer": 2,
+      "explanation": "Dublin sits on the River Liffey on Ireland's east coast."
+    },
+    {
+      "id": "terms-gold-017",
+      "tags": [
+        "latin-america",
+        "physical",
+        "gold-set"
+      ],
+      "difficulty": 3,
+      "q": "The Drake Passage is a stormy body of water between South America and which continent?",
+      "choices": [
+        "Africa",
+        "Australia",
+        "Antarctica",
+        "North America"
+      ],
+      "answer": 2,
+      "explanation": "The Drake Passage is one of the roughest stretches of water in the world."
+    },
+    {
+      "id": "terms-gold-018",
+      "tags": [
+        "us-canada",
+        "cities",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "Wall Street, the center of American finance, is located in which US city?",
+      "choices": [
+        "Washington, D.C.",
+        "Chicago",
+        "New York City",
+        "Boston"
+      ],
+      "answer": 2,
+      "explanation": "Wall Street is in the Financial District of Lower Manhattan."
+    },
+    {
+      "id": "terms-gold-019",
+      "tags": [
+        "us-canada",
+        "physical",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "Arizona is home to the Grand Canyon and which famous desert?",
+      "choices": [
+        "Mojave Desert",
+        "Sonoran Desert",
+        "Sahara Desert",
+        "Great Basin Desert"
+      ],
+      "answer": 1,
+      "explanation": "The Sonoran Desert covers much of Arizona and is home to the saguaro cactus."
+    },
+    {
+      "id": "terms-gold-020",
+      "tags": [
+        "africa",
+        "rivers",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "Victoria Falls, one of the world's largest waterfalls, is on the Zambezi River between Zambia and which country?",
+      "choices": [
+        "Botswana",
+        "Zimbabwe",
+        "Mozambique",
+        "Malawi"
+      ],
+      "answer": 1,
+      "explanation": "Victoria Falls is about twice the height of Niagara Falls."
+    },
+    {
+      "id": "terms-gold-021",
+      "tags": [
+        "africa",
+        "mountains",
+        "gold-set"
+      ],
+      "difficulty": 2,
+      "q": "The Atlas Mountains stretch across Morocco, Algeria, and which third North African country?",
+      "choices": [
+        "Libya",
+        "Tunisia",
+        "Egypt",
+        "Mauritania"
+      ],
+      "answer": 1,
+      "explanation": "The Atlas Mountains separate the Mediterranean coast from the Sahara Desert."
+    },
+    {
+      "id": "terms-gold-022",
+      "tags": [
+        "europe",
+        "mountains",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "Mont Blanc, the highest peak in the Alps, sits on the border of France and which country?",
+      "choices": [
+        "Switzerland",
+        "Italy",
+        "Austria",
+        "Germany"
+      ],
+      "answer": 1,
+      "explanation": "Mont Blanc stands at about 15,781 feet and its name means 'White Mountain.'"
+    },
+    {
+      "id": "terms-gold-023",
+      "tags": [
+        "asia",
+        "cities",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "Beijing is the capital of China. What does 'Beijing' mean in Chinese?",
+      "choices": [
+        "Eastern Palace",
+        "Northern Capital",
+        "Great City",
+        "Red River"
+      ],
+      "answer": 1,
+      "explanation": "Beijing has been China's capital for most of the last 800 years."
+    },
+    {
+      "id": "terms-blue-001",
+      "tags": [
+        "latin-america",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 3,
+      "q": "The Windward Passage is a strait between Cuba and which other Caribbean country?",
+      "choices": [
+        "Jamaica",
+        "Haiti",
+        "Puerto Rico",
+        "Bahamas"
+      ],
+      "answer": 1,
+      "explanation": "The Windward Passage connects the Atlantic Ocean to the Caribbean Sea."
+    },
+    {
+      "id": "terms-blue-002",
+      "tags": [
+        "europe",
+        "cities",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "London Heathrow is one of the world's busiest airports. In which country is it?",
+      "choices": [
+        "France",
+        "Germany",
+        "United Kingdom",
+        "Ireland"
+      ],
+      "answer": 2,
+      "explanation": "Heathrow handles about 80 million passengers per year."
+    },
+    {
+      "id": "terms-blue-003",
+      "tags": [
+        "asia",
+        "rivers",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "The Han River flows through Seoul, dividing it into north and south. Seoul is the capital of which country?",
+      "choices": [
+        "Japan",
+        "China",
+        "North Korea",
+        "South Korea"
+      ],
+      "answer": 3,
+      "explanation": "About half of South Korea's entire population lives in the Seoul area."
+    },
+    {
+      "id": "terms-blue-004",
+      "tags": [
+        "europe",
+        "rivers",
+        "cities",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "The River Liffey flows through which European capital city?",
+      "choices": [
+        "London",
+        "Edinburgh",
+        "Dublin",
+        "Belfast"
+      ],
+      "answer": 2,
+      "explanation": "Dublin's name comes from 'Dubh Linn,' meaning 'black pool' in Irish."
+    },
+    {
+      "id": "terms-blue-005",
+      "tags": [
+        "latin-america",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "Guantanamo Bay is a US naval base located on which Caribbean island?",
+      "choices": [
+        "Puerto Rico",
+        "Jamaica",
+        "Cuba",
+        "Hispaniola"
+      ],
+      "answer": 2,
+      "explanation": "The US has leased Guantanamo Bay from Cuba since 1903."
+    },
+    {
+      "id": "terms-blue-006",
+      "tags": [
+        "europe",
+        "culture",
+        "cities",
+        "blue-set"
+      ],
+      "difficulty": 3,
+      "q": "The Museo Reina Sofia, home to Picasso's painting 'Guernica,' is in which European capital?",
+      "choices": [
+        "Paris",
+        "Madrid",
+        "Rome",
+        "Lisbon"
+      ],
+      "answer": 1,
+      "explanation": "The museum is named after Queen Sofia of Spain."
+    },
+    {
+      "id": "terms-blue-007",
+      "tags": [
+        "europe",
+        "capitals",
+        "blue-set"
+      ],
+      "difficulty": 1,
+      "q": "Budapest is the capital of which Central European country?",
+      "choices": [
+        "Austria",
+        "Romania",
+        "Hungary",
+        "Czech Republic"
+      ],
+      "answer": 2,
+      "explanation": "Budapest was formed by uniting the cities of Buda and Pest on opposite sides of the Danube River."
+    },
+    {
+      "id": "terms-blue-008",
+      "tags": [
+        "europe",
+        "countries",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "The Baltic countries are Estonia, Latvia, and Lithuania. They all border which sea?",
+      "choices": [
+        "North Sea",
+        "Black Sea",
+        "Baltic Sea",
+        "Mediterranean Sea"
+      ],
+      "answer": 2,
+      "explanation": "All three countries were part of the Soviet Union until 1991."
+    },
+    {
+      "id": "terms-blue-009",
+      "tags": [
+        "asia",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "The Negev Desert covers more than half of which Middle Eastern country?",
+      "choices": [
+        "Jordan",
+        "Israel",
+        "Egypt",
+        "Saudi Arabia"
+      ],
+      "answer": 1,
+      "explanation": "The Negev is a triangular-shaped desert in southern Israel."
+    },
+    {
+      "id": "terms-blue-010",
+      "tags": [
+        "asia",
+        "islands",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "Sumatra is one of the largest islands in the world. It belongs to which country?",
+      "choices": [
+        "Malaysia",
+        "Philippines",
+        "Indonesia",
+        "Thailand"
+      ],
+      "answer": 2,
+      "explanation": "Sumatra is the sixth-largest island in the world and is home to orangutans and tigers."
+    },
+    {
+      "id": "terms-blue-011",
+      "tags": [
+        "us-canada",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 1,
+      "q": "Everglades National Park, a vast wetland home to alligators, is in which US state?",
+      "choices": [
+        "Louisiana",
+        "Georgia",
+        "Texas",
+        "Florida"
+      ],
+      "answer": 3,
+      "explanation": "The Everglades is sometimes called a 'river of grass.'"
+    },
+    {
+      "id": "terms-blue-012",
+      "tags": [
+        "oceania",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "Geysers are hot springs that shoot water into the air. Which country has the most active geysers?",
+      "choices": [
+        "Japan",
+        "New Zealand",
+        "Iceland",
+        "United States"
+      ],
+      "answer": 2,
+      "explanation": "The English word 'geyser' comes from Geysir, a famous geyser in Iceland."
+    },
+    {
+      "id": "terms-blue-013",
+      "tags": [
+        "us-canada",
+        "islands",
+        "blue-set"
+      ],
+      "difficulty": 1,
+      "q": "Oahu is a Hawaiian island that is home to Honolulu and which famous military site?",
+      "choices": [
+        "Fort Knox",
+        "West Point",
+        "Pearl Harbor",
+        "Area 51"
+      ],
+      "answer": 2,
+      "explanation": "Pearl Harbor was attacked by Japan in 1941, bringing the US into World War II."
+    },
+    {
+      "id": "terms-blue-014",
+      "tags": [
+        "us-canada",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 1,
+      "q": "Wisconsin is a Midwestern US state famous for producing which dairy product?",
+      "choices": [
+        "Yogurt",
+        "Butter",
+        "Cheese",
+        "Ice cream"
+      ],
+      "answer": 2,
+      "explanation": "Wisconsin is called 'America's Dairyland' and produces more cheese than any other state."
+    },
+    {
+      "id": "terms-blue-015",
+      "tags": [
+        "europe",
+        "rivers",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "The Tiber River flows through which European capital city?",
+      "choices": [
+        "Athens",
+        "Madrid",
+        "Rome",
+        "Paris"
+      ],
+      "answer": 2,
+      "explanation": "Legend says Rome was founded by Romulus and Remus on the banks of the Tiber."
+    },
+    {
+      "id": "terms-blue-016",
+      "tags": [
+        "europe",
+        "culture",
+        "blue-set"
+      ],
+      "difficulty": 1,
+      "q": "Tuscany is a region in central Italy famous for rolling hills, olive groves, and which city?",
+      "choices": [
+        "Rome",
+        "Venice",
+        "Florence",
+        "Milan"
+      ],
+      "answer": 2,
+      "explanation": "Florence was the birthplace of the Renaissance and home to artists like Michelangelo."
+    },
+    {
+      "id": "terms-blue-017",
+      "tags": [
+        "asia",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "The Gulf of Tonkin lies off the coast of Vietnam and which other country?",
+      "choices": [
+        "Thailand",
+        "Cambodia",
+        "China",
+        "Philippines"
+      ],
+      "answer": 2,
+      "explanation": "The Gulf of Tonkin is part of the South China Sea."
+    },
+    {
+      "id": "terms-blue-018",
+      "tags": [
+        "europe",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 3,
+      "q": "The Oresund Strait separates Denmark from which Scandinavian country?",
+      "choices": [
+        "Norway",
+        "Finland",
+        "Sweden",
+        "Iceland"
+      ],
+      "answer": 2,
+      "explanation": "A famous bridge-tunnel connects Copenhagen, Denmark to Malmo, Sweden across the strait."
+    },
+    {
+      "id": "terms-blue-019",
+      "tags": [
+        "us-canada",
+        "countries",
+        "blue-set"
+      ],
+      "difficulty": 1,
+      "q": "South Carolina was one of the original 13 US colonies. Its largest city is which of these?",
+      "choices": [
+        "Columbia",
+        "Charleston",
+        "Greenville",
+        "Myrtle Beach"
+      ],
+      "answer": 1,
+      "explanation": "Charleston is the largest city, while Columbia is the state capital."
+    },
+    {
+      "id": "terms-blue-020",
+      "tags": [
+        "us-canada",
+        "rivers",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "The Charles River separates Boston from Cambridge, home to Harvard University. In which state are both cities?",
+      "choices": [
+        "Connecticut",
+        "New York",
+        "Massachusetts",
+        "Rhode Island"
+      ],
+      "answer": 2,
+      "explanation": "The Charles River is about 80 miles long and is famous for rowing and sailing."
+    },
+    {
+      "id": "terms-blue-021",
+      "tags": [
+        "us-canada",
+        "cities",
+        "blue-set"
+      ],
+      "difficulty": 1,
+      "q": "Which is the largest city in Texas by population?",
+      "choices": [
+        "Dallas",
+        "Houston",
+        "San Antonio",
+        "Austin"
+      ],
+      "answer": 1,
+      "explanation": "Houston is the fourth-largest city in the entire United States."
+    },
+    {
+      "id": "terms-blue-022",
+      "tags": [
+        "latin-america",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 1,
+      "q": "The Yucatan Peninsula, home to ancient Mayan ruins, is mainly in which country?",
+      "choices": [
+        "Guatemala",
+        "Honduras",
+        "Mexico",
+        "Belize"
+      ],
+      "answer": 2,
+      "explanation": "The Yucatan is where an asteroid struck 66 million years ago, ending the age of dinosaurs."
+    },
+    {
+      "id": "terms-blue-023",
+      "tags": [
+        "asia",
+        "mountains",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "The Ural Mountains form a traditional boundary between Europe and which continent?",
+      "choices": [
+        "Africa",
+        "Asia",
+        "North America",
+        "Australia"
+      ],
+      "answer": 1,
+      "explanation": "The Ural Mountains run through Russia from north to south for about 1,500 miles."
+    },
+    {
+      "id": "terms-blue-024",
+      "tags": [
+        "asia",
+        "mountains",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 3,
+      "q": "K2, the second-tallest mountain in the world, stands on the border between China and which country?",
+      "choices": [
+        "India",
+        "Nepal",
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "answer": 3,
+      "explanation": "K2 is in the Karakoram range and is considered harder to climb than Everest."
+    },
+    {
+      "id": "terms-blue-025",
+      "tags": [
+        "latin-america",
+        "rivers",
+        "blue-set"
+      ],
+      "difficulty": 1,
+      "q": "The Orinoco River is the main river of which South American country?",
+      "choices": [
+        "Colombia",
+        "Brazil",
+        "Venezuela",
+        "Guyana"
+      ],
+      "answer": 2,
+      "explanation": "The Orinoco is one of the longest rivers in South America at about 1,330 miles."
+    },
+    {
+      "id": "terms-blue-026",
+      "tags": [
+        "europe",
+        "capitals",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "Red Square, a famous plaza next to the Kremlin, is in which city?",
+      "choices": [
+        "Saint Petersburg",
+        "Warsaw",
+        "Moscow",
+        "Kyiv"
+      ],
+      "answer": 2,
+      "explanation": "Red Square features St. Basil's Cathedral with its colorful onion-shaped domes."
+    },
+    {
+      "id": "terms-blue-027",
+      "tags": [
+        "asia",
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "The Himalayas, including Mount Everest, form a border between India and which country to the north?",
+      "choices": [
+        "Pakistan",
+        "China",
+        "Bangladesh",
+        "Myanmar"
+      ],
+      "answer": 1,
+      "explanation": "The word 'Himalaya' means 'abode of snow' in Sanskrit."
+    },
+    {
+      "id": "terms-blue-028",
+      "tags": [
+        "physical",
+        "blue-set"
+      ],
+      "difficulty": 2,
+      "q": "Land reclamation is the process of creating new land from the sea. Which city-state is famous for it?",
+      "choices": [
+        "Monaco",
+        "Singapore",
+        "Vatican City",
+        "Andorra"
+      ],
+      "answer": 1,
+      "explanation": "Singapore has increased its land area by about 25% through land reclamation."
+    },
+    {
+      "id": "terms-red-021",
+      "tags": [
+        "us-canada",
+        "physical",
+        "red-set"
+      ],
+      "difficulty": 2,
+      "q": "Yellowstone National Park is famous for Old Faithful and sits on top of which natural feature?",
+      "choices": [
+        "A glacier",
+        "A supervolcano",
+        "An underground river",
+        "A meteor crater"
+      ],
+      "answer": 1,
+      "explanation": "The Yellowstone supervolcano last erupted about 640,000 years ago."
+    },
+    {
+      "id": "terms-red-022",
+      "tags": [
+        "us-canada",
+        "countries",
+        "red-set"
+      ],
+      "difficulty": 2,
+      "q": "British Columbia is a Canadian province on the Pacific coast. What is its largest city?",
+      "choices": [
+        "Victoria",
+        "Calgary",
+        "Vancouver",
+        "Edmonton"
+      ],
+      "answer": 2,
+      "explanation": "Vancouver is one of the most diverse cities in Canada."
+    },
+    {
+      "id": "terms-gold-024",
+      "tags": [
+        "us-canada",
+        "rivers",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "How many Great Lakes are there on the US-Canada border?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "answer": 2,
+      "explanation": "The five Great Lakes are Superior, Michigan, Huron, Erie, and Ontario."
+    },
+    {
+      "id": "terms-gold-025",
+      "tags": [
+        "asia",
+        "cities",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "Bangkok is the capital of Thailand and is famous for its ornate temples. What are Thai Buddhist temples called?",
+      "choices": [
+        "Mosques",
+        "Pagodas",
+        "Wats",
+        "Shrines"
+      ],
+      "answer": 2,
+      "explanation": "Bangkok has over 400 wats (temples), including the famous Wat Arun."
+    },
+    {
+      "id": "terms-gold-026",
+      "tags": [
+        "asia",
+        "mountains",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "The Himalayas are located in Asia and contain the world's highest peak. What is that peak called?",
+      "choices": [
+        "K2",
+        "Kangchenjunga",
+        "Mount Everest",
+        "Annapurna"
+      ],
+      "answer": 2,
+      "explanation": "Mount Everest is about 29,032 feet tall and sits on the Nepal-China border."
+    },
+    {
+      "id": "terms-gold-027",
+      "tags": [
+        "africa",
+        "capitals",
+        "gold-set"
+      ],
+      "difficulty": 1,
+      "q": "Nairobi is the capital of Kenya and has a national park within the city. What animals can be seen there?",
+      "choices": [
+        "Penguins and polar bears",
+        "Lions and giraffes",
+        "Kangaroos and koalas",
+        "Pandas and monkeys"
+      ],
+      "answer": 1,
+      "explanation": "Nairobi National Park is the only wildlife park inside a major capital city."
+    },
+    {
+      "id": "tossup1-001",
+      "tags": [
+        "latin-america",
+        "islands"
+      ],
+      "difficulty": 3,
+      "q": "Which island's Mataveri International Airport is the world's most remote commercial airport?",
+      "choices": [
+        "Tristan da Cunha",
+        "Easter Island",
+        "Pitcairn Island",
+        "Midway Atoll"
+      ],
+      "answer": 1,
+      "explanation": "Easter Island (Rapa Nui) is over 2,000 miles from the nearest populated land."
+    },
+    {
+      "id": "tossup1-002",
+      "tags": [
+        "latin-america",
+        "islands",
+        "culture"
+      ],
+      "difficulty": 2,
+      "q": "Rapa Nui, also called Isla de Pascua, is owned by which country?",
+      "choices": [
+        "Peru",
+        "Argentina",
+        "Chile",
+        "Ecuador"
+      ],
+      "answer": 2,
+      "explanation": "Easter Island is a Chilean territory in southeastern Polynesia."
+    },
+    {
+      "id": "tossup1-003",
+      "tags": [
+        "latin-america",
+        "islands",
+        "culture"
+      ],
+      "difficulty": 1,
+      "q": "Which Pacific island owned by Chile is famous for its moai statues with large heads?",
+      "choices": [
+        "Galápagos Islands",
+        "Easter Island",
+        "Juan Fernández Islands",
+        "Chiloé"
+      ],
+      "answer": 1,
+      "explanation": "The moai were carved by the Rapa Nui people between 1250 and 1500 CE."
+    },
+    {
+      "id": "tossup1-004",
+      "tags": [
+        "europe",
+        "culture"
+      ],
+      "difficulty": 3,
+      "q": "Thomas Cavendish was the first person to deliberately plan what type of global journey?",
+      "choices": [
+        "Polar expedition",
+        "Circumnavigation",
+        "Transatlantic crossing",
+        "Trade route"
+      ],
+      "answer": 1,
+      "explanation": "Cavendish circumnavigated the globe in 1586-88, after Magellan's expedition."
+    },
+    {
+      "id": "tossup1-005",
+      "tags": [
+        "europe",
+        "culture"
+      ],
+      "difficulty": 1,
+      "q": "Ferdinand Magellan's expedition, beginning and ending in Seville, was the first to complete what type of journey?",
+      "choices": [
+        "Polar crossing",
+        "Circumnavigation",
+        "Transatlantic voyage",
+        "Pacific crossing"
+      ],
+      "answer": 1,
+      "explanation": "Though Magellan died in the Philippines, his crew completed the first circumnavigation in 1522."
+    },
+    {
+      "id": "tossup1-006",
+      "tags": [
+        "us-canada",
+        "rivers"
+      ],
+      "difficulty": 3,
+      "q": "Which river's source is Lake Tear of the Clouds on Mount Marcy in the Adirondacks?",
+      "choices": [
+        "Delaware River",
+        "Connecticut River",
+        "Hudson River",
+        "Mohawk River"
+      ],
+      "answer": 2,
+      "explanation": "Lake Tear of the Clouds sits at 4,322 feet on New York's highest peak."
+    },
+    {
+      "id": "tossup1-007",
+      "tags": [
+        "us-canada",
+        "rivers"
+      ],
+      "difficulty": 1,
+      "q": "The Tappan Zee is the widest point of which river that empties into New York Harbor?",
+      "choices": [
+        "East River",
+        "Connecticut River",
+        "Delaware River",
+        "Hudson River"
+      ],
+      "answer": 3,
+      "explanation": "The Hudson River runs 315 miles from the Adirondacks to New York Harbor."
+    },
+    {
+      "id": "tossup1-008",
+      "tags": [
+        "europe",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "Which island was transferred from the Republic of Genoa to France's King Louis XV in 1769?",
+      "choices": [
+        "Sardinia",
+        "Sicily",
+        "Corsica",
+        "Crete"
+      ],
+      "answer": 2,
+      "explanation": "Corsica became French just one year before Napoleon was born there."
+    },
+    {
+      "id": "tossup1-009",
+      "tags": [
+        "europe",
+        "islands",
+        "culture"
+      ],
+      "difficulty": 1,
+      "q": "Napoleon was born on which island, the largest of European France?",
+      "choices": [
+        "Corsica",
+        "Sardinia",
+        "Réunion",
+        "Martinique"
+      ],
+      "answer": 0,
+      "explanation": "Napoleon was born in Ajaccio, Corsica in 1769."
+    },
+    {
+      "id": "tossup1-010",
+      "tags": [
+        "us-canada",
+        "mountains"
+      ],
+      "difficulty": 2,
+      "q": "Which mountain is over 33,000 feet tall when measured from its base on the ocean floor, making it the second-highest island peak on Earth?",
+      "choices": [
+        "Mauna Loa",
+        "Haleakalā",
+        "Mauna Kea",
+        "Mount Olympus"
+      ],
+      "answer": 2,
+      "explanation": "Mauna Kea rises about 33,500 feet from the Pacific Ocean floor."
+    },
+    {
+      "id": "tossup1-011",
+      "tags": [
+        "us-canada",
+        "mountains"
+      ],
+      "difficulty": 1,
+      "q": "What volcano is Hawaii's highest peak, standing 125 feet higher than neighboring Mauna Loa?",
+      "choices": [
+        "Kīlauea",
+        "Haleakalā",
+        "Mauna Kea",
+        "Diamond Head"
+      ],
+      "answer": 2,
+      "explanation": "Mauna Kea stands 13,796 feet above sea level."
+    },
+    {
+      "id": "tossup1-012",
+      "tags": [
+        "us-canada",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "Which city's Point State Park sits at the confluence of the Allegheny and Monongahela Rivers, which form the Ohio River?",
+      "choices": [
+        "Cincinnati",
+        "Pittsburgh",
+        "Louisville",
+        "Columbus"
+      ],
+      "answer": 1,
+      "explanation": "Fort Duquesne was built by the French at this strategic river junction."
+    },
+    {
+      "id": "tossup1-013",
+      "tags": [
+        "us-canada",
+        "cities"
+      ],
+      "difficulty": 1,
+      "q": "What largest city of western Pennsylvania is known for its steel industry?",
+      "choices": [
+        "Philadelphia",
+        "Erie",
+        "Pittsburgh",
+        "Allentown"
+      ],
+      "answer": 2,
+      "explanation": "Pittsburgh was once called the \"Steel City\" and produced much of America's steel."
+    },
+    {
+      "id": "tossup1-014",
+      "tags": [
+        "asia",
+        "physical"
+      ],
+      "difficulty": 2,
+      "q": "The Sentinelese people live on North Sentinel Island in which bay that also contains the Andaman Islands?",
+      "choices": [
+        "Arabian Sea",
+        "Bay of Bengal",
+        "South China Sea",
+        "Andaman Sea"
+      ],
+      "answer": 1,
+      "explanation": "The Bay of Bengal is the world's largest bay by area."
+    },
+    {
+      "id": "tossup1-015",
+      "tags": [
+        "asia",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "What is the world's largest bay by area, located between India and Myanmar?",
+      "choices": [
+        "Bay of Biscay",
+        "Hudson Bay",
+        "Bay of Bengal",
+        "Gulf of Mexico"
+      ],
+      "answer": 2,
+      "explanation": "The Bay of Bengal covers about 839,000 square miles."
+    },
+    {
+      "id": "tossup1-016",
+      "tags": [
+        "asia",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "The Isthmus of Kra, separating the Andaman Sea from a namesake gulf, is the narrowest part of which country?",
+      "choices": [
+        "Myanmar",
+        "Malaysia",
+        "Vietnam",
+        "Thailand"
+      ],
+      "answer": 3,
+      "explanation": "The Isthmus of Kra is only 27 miles wide at its narrowest point."
+    },
+    {
+      "id": "tossup1-017",
+      "tags": [
+        "asia",
+        "countries",
+        "islands"
+      ],
+      "difficulty": 1,
+      "q": "Which country, home to the island of Phuket, was previously known as Siam?",
+      "choices": [
+        "Cambodia",
+        "Thailand",
+        "Vietnam",
+        "Laos"
+      ],
+      "answer": 1,
+      "explanation": "Siam was renamed Thailand (\"Land of the Free\") in 1939."
+    },
+    {
+      "id": "tossup1-018",
+      "tags": [
+        "us-canada",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Which U.S. state, with its capital at Jackson, adopted a \"Magnolia Flag\" in 2021 and names a major American river?",
+      "choices": [
+        "Missouri",
+        "Alabama",
+        "Mississippi",
+        "Louisiana"
+      ],
+      "answer": 2,
+      "explanation": "Mississippi replaced its Confederate-emblem flag with the Magnolia Flag in 2021."
+    },
+    {
+      "id": "tossup1-019",
+      "tags": [
+        "asia",
+        "physical"
+      ],
+      "difficulty": 3,
+      "q": "The Kolyma Highway, built by forced laborers, runs from Magadan to Yakutsk in which region?",
+      "choices": [
+        "Kamchatka",
+        "Siberia",
+        "Ural Mountains",
+        "Manchuria"
+      ],
+      "answer": 1,
+      "explanation": "The Kolyma Highway is nicknamed the \"Road of Bones\" due to prisoner deaths during construction."
+    },
+    {
+      "id": "tossup1-020",
+      "tags": [
+        "asia",
+        "physical",
+        "rivers"
+      ],
+      "difficulty": 1,
+      "q": "The Ob, Yenisei, and Lena are the three major rivers of which remote Russian region?",
+      "choices": [
+        "Caucasus",
+        "Siberia",
+        "Kamchatka",
+        "Ural Region"
+      ],
+      "answer": 1,
+      "explanation": "These three rivers are among the longest in the world and flow north into the Arctic Ocean."
+    },
+    {
+      "id": "tossup1-021",
+      "tags": [
+        "europe",
+        "islands"
+      ],
+      "difficulty": 3,
+      "q": "Which archipelago's island of La Gomera is known for its Silbo language that incorporates whistles?",
+      "choices": [
+        "Azores",
+        "Canary Islands",
+        "Balearic Islands",
+        "Cape Verde"
+      ],
+      "answer": 1,
+      "explanation": "Silbo Gomero is a whistled form of Spanish used across the island's valleys."
+    },
+    {
+      "id": "tossup1-022",
+      "tags": [
+        "europe",
+        "islands"
+      ],
+      "difficulty": 1,
+      "q": "What Spanish archipelago off the African coast is named for dogs (Latin: canis), not birds?",
+      "choices": [
+        "Balearic Islands",
+        "Azores",
+        "Canary Islands",
+        "Madeira"
+      ],
+      "answer": 2,
+      "explanation": "The name comes from Latin \"Canariae Insulae\" (Islands of Dogs)."
+    },
+    {
+      "id": "tossup1-023",
+      "tags": [
+        "us-canada",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "The Seven Mile Bridge is part of the Overseas Highway that terminates in which Florida city?",
+      "choices": [
+        "Miami",
+        "Fort Lauderdale",
+        "Key West",
+        "Key Largo"
+      ],
+      "answer": 2,
+      "explanation": "The Overseas Highway runs 113 miles from the mainland to Key West."
+    },
+    {
+      "id": "tossup1-024",
+      "tags": [
+        "us-canada",
+        "cities"
+      ],
+      "difficulty": 1,
+      "q": "What city in the Florida Keys contains the southernmost point of the continental United States?",
+      "choices": [
+        "Key Largo",
+        "Marathon",
+        "Key West",
+        "Islamorada"
+      ],
+      "answer": 2,
+      "explanation": "Key West is about 90 miles from Cuba."
+    },
+    {
+      "id": "tossup1-025",
+      "tags": [
+        "latin-america",
+        "countries",
+        "culture"
+      ],
+      "difficulty": 2,
+      "q": "The ancient Maya city of Tikal is located in which Central American country bordered by Belize and Mexico?",
+      "choices": [
+        "Honduras",
+        "Guatemala",
+        "El Salvador",
+        "Belize"
+      ],
+      "answer": 1,
+      "explanation": "Tikal was one of the most powerful Maya city-states, flourishing from 200-900 CE."
+    },
+    {
+      "id": "tossup1-026",
+      "tags": [
+        "latin-america",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Which Central American country displays a resplendent quetzal on its flag and is bordered to the east by Belize?",
+      "choices": [
+        "Honduras",
+        "Costa Rica",
+        "Guatemala",
+        "El Salvador"
+      ],
+      "answer": 2,
+      "explanation": "The quetzal is Guatemala's national bird and its currency is also named after it."
+    },
+    {
+      "id": "tossup1-027",
+      "tags": [
+        "africa",
+        "countries",
+        "culture"
+      ],
+      "difficulty": 2,
+      "q": "Much of the Star Wars series was filmed in which country's Tataouine Governorate, known for Berber cave dwellings?",
+      "choices": [
+        "Morocco",
+        "Libya",
+        "Tunisia",
+        "Algeria"
+      ],
+      "answer": 2,
+      "explanation": "The planet Tatooine in Star Wars was named after the real Tunisian town."
+    },
+    {
+      "id": "tossup1-028",
+      "tags": [
+        "africa",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "The ruins of Carthage and the eastern end of the Atlas Mountains are found in which North African country between Libya and Algeria?",
+      "choices": [
+        "Morocco",
+        "Egypt",
+        "Tunisia",
+        "Mauritania"
+      ],
+      "answer": 2,
+      "explanation": "Carthage was an ancient Phoenician city-state near modern-day Tunis."
+    },
+    {
+      "id": "tossup1-029",
+      "tags": [
+        "oceania",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "The Mariana Trench contains what lowest point on Earth?",
+      "choices": [
+        "Tonga Deep",
+        "Richards Deep",
+        "Challenger Deep",
+        "Sirena Deep"
+      ],
+      "answer": 2,
+      "explanation": "Challenger Deep is about 36,000 feet below the ocean surface."
+    },
+    {
+      "id": "tossup1-030",
+      "tags": [
+        "asia",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "What Middle Eastern country governed from Beirut is known for its Cedar Revolution?",
+      "choices": [
+        "Syria",
+        "Jordan",
+        "Lebanon",
+        "Israel"
+      ],
+      "answer": 2,
+      "explanation": "Lebanon's flag features a cedar tree, symbol of the country since ancient times."
+    },
+    {
+      "id": "tossup1-031",
+      "tags": [
+        "us-canada",
+        "rivers"
+      ],
+      "difficulty": 2,
+      "q": "Which river forms the Vermont–New Hampshire boundary and flows past Hartford?",
+      "choices": [
+        "Hudson River",
+        "Merrimack River",
+        "Connecticut River",
+        "Delaware River"
+      ],
+      "answer": 2,
+      "explanation": "The Connecticut River is the longest river in New England at 410 miles."
+    },
+    {
+      "id": "tossup1-032",
+      "tags": [
+        "latin-america",
+        "countries",
+        "mountains"
+      ],
+      "difficulty": 2,
+      "q": "Huascarán, the highest peak in the Tropics, is found in which South American country that also contains the Nazca Lines?",
+      "choices": [
+        "Bolivia",
+        "Ecuador",
+        "Peru",
+        "Colombia"
+      ],
+      "answer": 2,
+      "explanation": "Huascarán stands 22,205 feet in the Andes."
+    },
+    {
+      "id": "tossup1-033",
+      "tags": [
+        "latin-america",
+        "countries",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "Which country shares Lake Titicaca with Bolivia and contains the city of Lima?",
+      "choices": [
+        "Ecuador",
+        "Peru",
+        "Colombia",
+        "Chile"
+      ],
+      "answer": 1,
+      "explanation": "Lake Titicaca is the highest navigable lake in the world at 12,507 feet."
+    },
+    {
+      "id": "tossup1-034",
+      "tags": [
+        "europe",
+        "countries",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "The Peloponnese peninsula is technically made an island by the Corinth Canal in which country?",
+      "choices": [
+        "Italy",
+        "Turkey",
+        "Greece",
+        "Croatia"
+      ],
+      "answer": 2,
+      "explanation": "The Corinth Canal was completed in 1893, cutting through 6.4 km of rock."
+    },
+    {
+      "id": "tossup1-035",
+      "tags": [
+        "europe",
+        "countries",
+        "islands"
+      ],
+      "difficulty": 1,
+      "q": "The large island of Crete and Mount Olympus are found in which country governed from Athens?",
+      "choices": [
+        "Turkey",
+        "Italy",
+        "Greece",
+        "Albania"
+      ],
+      "answer": 2,
+      "explanation": "Crete is the largest Greek island and the fifth-largest in the Mediterranean."
+    },
+    {
+      "id": "tossup1-036",
+      "tags": [
+        "latin-america",
+        "countries",
+        "islands"
+      ],
+      "difficulty": 2,
+      "q": "Lake Enriquillo, the lowest point of any oceanic island, is found in which Caribbean country?",
+      "choices": [
+        "Haiti",
+        "Jamaica",
+        "Dominican Republic",
+        "Cuba"
+      ],
+      "answer": 2,
+      "explanation": "Lake Enriquillo sits about 150 feet below sea level."
+    },
+    {
+      "id": "tossup1-037",
+      "tags": [
+        "latin-america",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Punta Cana and Santo Domingo are located in which Caribbean country that occupies Hispaniola's eastern portion?",
+      "choices": [
+        "Haiti",
+        "Puerto Rico",
+        "Dominican Republic",
+        "Jamaica"
+      ],
+      "answer": 2,
+      "explanation": "The Dominican Republic shares the island of Hispaniola with Haiti."
+    },
+    {
+      "id": "tossup1-038",
+      "tags": [
+        "africa",
+        "countries"
+      ],
+      "difficulty": 2,
+      "q": "Which African country's Cap-Vert peninsula contains the island of Gorée, a former center of the slave trade?",
+      "choices": [
+        "Guinea",
+        "Senegal",
+        "Gambia",
+        "Sierra Leone"
+      ],
+      "answer": 1,
+      "explanation": "Gorée Island is now a UNESCO World Heritage Site and memorial."
+    },
+    {
+      "id": "tossup1-039",
+      "tags": [
+        "africa",
+        "countries",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "What is Africa's westernmost country, with its capital at Dakar, that almost totally encases The Gambia?",
+      "choices": [
+        "Guinea-Bissau",
+        "Mauritania",
+        "Senegal",
+        "Mali"
+      ],
+      "answer": 2,
+      "explanation": "The Gambia is a narrow country that follows the Gambia River, surrounded by Senegal on three sides."
+    },
+    {
+      "id": "tossup1-040",
+      "tags": [
+        "us-canada",
+        "rivers",
+        "physical"
+      ],
+      "difficulty": 2,
+      "q": "The Skylon Tower overlooks which waterfalls whose three parts are called American, Horseshoe, and Bridal Veil?",
+      "choices": [
+        "Victoria Falls",
+        "Iguazu Falls",
+        "Niagara Falls",
+        "Angel Falls"
+      ],
+      "answer": 2,
+      "explanation": "The Horseshoe Falls is the largest of the three, mostly on the Canadian side."
+    },
+    {
+      "id": "tossup1-041",
+      "tags": [
+        "us-canada",
+        "rivers",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "What massive waterfalls on the border of New York and Ontario consist of the American, Horseshoe, and Bridal Veil falls?",
+      "choices": [
+        "Niagara Falls",
+        "Iguazu Falls",
+        "Victoria Falls",
+        "Yosemite Falls"
+      ],
+      "answer": 0,
+      "explanation": "About 750,000 gallons of water flow over Niagara Falls every second."
+    },
+    {
+      "id": "tossup1-042",
+      "tags": [
+        "us-canada",
+        "cities",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "What capital of Arizona lies in the Valley of the Sun near the confluence of the Salt and Gila Rivers?",
+      "choices": [
+        "Tucson",
+        "Phoenix",
+        "Flagstaff",
+        "Mesa"
+      ],
+      "answer": 1,
+      "explanation": "Phoenix is the fifth-most populous city in the United States."
+    },
+    {
+      "id": "tossup1-043",
+      "tags": [
+        "us-canada",
+        "cities"
+      ],
+      "difficulty": 2,
+      "q": "Which city, Alaska's largest, was devastated by the 1964 Good Friday Earthquake and sits at the Cook Inlet?",
+      "choices": [
+        "Fairbanks",
+        "Juneau",
+        "Anchorage",
+        "Sitka"
+      ],
+      "answer": 2,
+      "explanation": "The 1964 earthquake was magnitude 9.2, the most powerful ever recorded in North America."
+    },
+    {
+      "id": "tossup1-044",
+      "tags": [
+        "asia",
+        "physical"
+      ],
+      "difficulty": 2,
+      "q": "The Gulf of Aden is the westernmost extent of which sea, connected to the Red Sea through the Bab-el-Mandeb strait?",
+      "choices": [
+        "Persian Gulf",
+        "Arabian Sea",
+        "Indian Ocean",
+        "Red Sea"
+      ],
+      "answer": 1,
+      "explanation": "The Bab-el-Mandeb strait is only about 20 miles wide."
+    },
+    {
+      "id": "tossup1-045",
+      "tags": [
+        "asia",
+        "physical"
+      ],
+      "difficulty": 1,
+      "q": "What sea lies between India, Africa, and a namesake peninsula, containing the island of Socotra?",
+      "choices": [
+        "Red Sea",
+        "Persian Gulf",
+        "Arabian Sea",
+        "Andaman Sea"
+      ],
+      "answer": 2,
+      "explanation": "The Arabian Sea is the northwestern part of the Indian Ocean."
+    },
+    {
+      "id": "tossup1-046",
+      "tags": [
+        "us-canada",
+        "countries"
+      ],
+      "difficulty": 1,
+      "q": "Bill Clinton was born in which U.S. state governed from Little Rock, home to Bentonville (Walmart's headquarters)?",
+      "choices": [
+        "Tennessee",
+        "Arkansas",
+        "Oklahoma",
+        "Missouri"
+      ],
+      "answer": 1,
+      "explanation": "Bentonville, Arkansas is the global headquarters of Walmart, the world's largest company by revenue."
+    },
+    {
+      "id": "tossup1-047",
+      "tags": [
+        "europe",
+        "cities",
+        "capitals"
+      ],
+      "difficulty": 1,
+      "q": "The Arc de Triomphe, Eiffel Tower, and Pont Neuf are all found in which city on the River Seine?",
+      "choices": [
+        "London",
+        "Rome",
+        "Paris",
+        "Berlin"
+      ],
+      "answer": 2,
+      "explanation": "Paris is divided into 20 arrondissements (districts) spiraling outward from the center."
+    }
+  ]
+}
